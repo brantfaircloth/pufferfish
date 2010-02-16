@@ -1,0 +1,52 @@
+# Get the data from UCSC
+Downloaded http://hgdownload.cse.ucsc.edu/goldenPath/fr2/database/all_est.sql 
+from UCSC on 05 Feb 2010
+Downloaded http://hgdownload.cse.ucsc.edu/goldenPath/fr2/database/all_est.txt 
+from UCSC on 05 Feb 2010
+
+
+# the above does not include the "spliced" ESTs, which are actually better, so 
+# get those data from the table browser at UCSC (we cannot easily download them)
+
+Downloaded spliced EST data from the UCSC table browser to intronEst.txt
+
+# Create the dbase tables from all_est.sql
+# Load the txt data from all_est.txt and intronEst.txt
+
+# Use `show create table est` to show the table structure for the est data
+# modify this create table statement to add an autoincrementing primary key
+# we need this key later to maintain referential integrity
+
+# now, to get the data into the table do: 
+insert into splice (bin, matches, misMatches, repMatches, nCount, 
+qNumInsert, qBaseInsert, tNumInsert, tBaseInsert, strand, qName, qSize, qStart, 
+qEnd, tName, tSize, tStart, tEnd, blockCount, blockSizes, qStarts, tStarts) select
+ * from t_splice;
+
+# create a new table for the start/end data that we're going to copy over
+CREATE TABLE `starts` (
+`id` int(10) unsigned NOT NULL,
+`start` int(10) unsigned NOT NULL default '0',
+`end` int(10) unsigned NOT NULL default '0',
+`length` mediumint(8) unsigned NOT NULL default '0',
+FOREIGN KEY (`id`) references splice (`id`),
+KEY `start` (`start`),
+KEY `end` (`end`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+# parse the blockSize and tStart columns out into their own rows using:
+
+python splitStart.py -c db.conf
+
+# using the data in the newly created `starts` table (from splitStart.py above), 
+# go through regions, find those that overlap with at least 3 overlapping ESTs,
+# compact that all done into a single `region` (composed of elements in
+# `region_components` and record the area covered by the `region`
+
+python splitCluster.py -c db.conf -d 0
+
+# build a bed file from the records
+
+python makeBedFromRegion.py -c db.conf
+
+
