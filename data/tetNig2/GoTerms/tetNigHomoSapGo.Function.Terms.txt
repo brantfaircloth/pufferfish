@@ -1,0 +1,1090 @@
+Function	protein binding	1481
+Function	metal ion binding	432
+Function	nucleotide binding	403
+Function	ATP binding	263
+Function	zinc ion binding	220
+Function	transferase activity	219
+Function	hydrolase activity	215
+Function	RNA binding	208
+Function	oxidoreductase activity	193
+Function	structural constituent of ribosome	149
+Function	DNA binding	130
+Function	peptidase activity	129
+Function	molecular_function	114
+Function	GTP binding	112
+Function	calcium ion binding	105
+Function	binding	102
+Function	identical protein binding	92
+Function	transcription factor activity	91
+Function	protein homodimerization activity	80
+Function	transporter activity	73
+Function	GTPase activity	73
+Function	actin binding	68
+Function	ligase activity	68
+Function	electron carrier activity	65
+Function	lyase activity	65
+Function	serine-type endopeptidase activity	57
+Function	unfolded protein binding	56
+Function	isomerase activity	54
+Function	transcription coactivator activity	49
+Function	structural molecule activity	49
+Function	ATPase activity	46
+Function	ubiquitin-protein ligase activity	46
+Function	signal transducer activity	43
+Function	magnesium ion binding	42
+Function	receptor activity	40
+Function	nucleic acid binding	40
+Function	transferase activity, transferring glycosyl groups	39
+Function	methyltransferase activity	38
+Function	acyltransferase activity	36
+Function	structural constituent of cytoskeleton	36
+Function	translation initiation factor activity	36
+Function	lipid binding	35
+Function	NAD or NADH binding	33
+Function	RNA polymerase II transcription factor activity	33
+Function	protein heterodimerization activity	33
+Function	kinase activity	33
+Function	heme binding	32
+Function	receptor binding	32
+Function	structural constituent of muscle	31
+Function	sequence-specific DNA binding	31
+Function	transcription activator activity	31
+Function	catalytic activity	30
+Function	enzyme binding	30
+Function	serine-type peptidase activity	29
+Function	serine-type endopeptidase inhibitor activity	28
+Function	NADH dehydrogenase (ubiquinone) activity	28
+Function	protein transporter activity	27
+Function	iron ion binding	26
+Function	threonine-type endopeptidase activity	26
+Function	heat shock protein binding	25
+Function	peptidyl-prolyl cis-trans isomerase activity	25
+Function	translation elongation factor activity	24
+Function	peptidase inhibitor activity	23
+Function	protein kinase binding	23
+Function	sugar binding	23
+Function	protein serine/threonine kinase activity	22
+Function	transmembrane transporter activity	21
+Function	protein domain specific binding	21
+Function	oxygen binding	21
+Function	damaged DNA binding	21
+Function	pyridoxal phosphate binding	20
+Function	endonuclease activity	20
+Function	transcription corepressor activity	20
+Function	structural constituent of eye lens	20
+Function	chromatin binding	20
+Function	protein kinase activity	20
+Function	metallopeptidase activity	20
+Function	FAD binding	20
+Function	motor activity	20
+Function	protein N-terminus binding	19
+Function	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	19
+Function	hydrogen ion transmembrane transporter activity	19
+Function	G-protein coupled receptor activity	19
+Function	transcription repressor activity	19
+Function	growth factor activity	19
+Function	protein serine/threonine phosphatase activity	18
+Function	heparin binding	18
+Function	transcription factor binding	18
+Function	cytoskeletal protein binding	17
+Function	cysteine-type endopeptidase activity	17
+Function	protein C-terminus binding	17
+Function	rRNA binding	17
+Function	histone acetyltransferase activity	17
+Function	tropomyosin binding	17
+Function	protein complex binding	16
+Function	hormone activity	16
+Function	proton-transporting ATPase activity, rotational mechanism	15
+Function	hydrolase activity, acting on glycosyl bonds	14
+Function	protein dimerization activity	14
+Function	manganese ion binding	14
+Function	double-stranded RNA binding	14
+Function	4 iron, 4 sulfur cluster binding	14
+Function	GTPase activator activity	13
+Function	cysteine-type peptidase activity	13
+Function	monooxygenase activity	13
+Function	glutathione transferase activity	13
+Function	transcription cofactor activity	13
+Function	NADH dehydrogenase activity	13
+Function	transcription regulator activity	12
+Function	steroid binding	12
+Function	nucleoside-triphosphatase activity	12
+Function	cyclin-dependent protein kinase activity	12
+Function	metallocarboxypeptidase activity	12
+Function	translation factor activity, nucleic acid binding	12
+Function	double-stranded DNA binding	12
+Function	general RNA polymerase II transcription factor activity	12
+Function	translation regulator activity	12
+Function	calcium-dependent phospholipid binding	11
+Function	carboxylesterase activity	11
+Function	ATP-dependent helicase activity	11
+Function	cation binding	11
+Function	NADP or NADPH binding	11
+Function	aromatase activity	11
+Function	GDP binding	11
+Function	guanyl-nucleotide exchange factor activity	11
+Function	helicase activity	11
+Function	ribosome binding	11
+Function	protein binding, bridging	11
+Function	enzyme inhibitor activity	11
+Function	tRNA binding	11
+Function	L-lactate dehydrogenase activity	11
+Function	calcium-transporting ATPase activity	10
+Function	hydrogen ion transporting ATP synthase activity, rotational mechanism	10
+Function	chitinase activity	10
+Function	SH3 domain binding	10
+Function	mRNA binding	10
+Function	FK506 binding	10
+Function	fucosyltransferase activity	10
+Function	glutathione peroxidase activity	10
+Function	calcium-dependent protein binding	10
+Function	troponin I binding	10
+Function	ferric iron binding	9
+Function	retinol binding	9
+Function	fatty acid binding	9
+Function	actin filament binding	9
+Function	aminopeptidase activity	9
+Function	protein tyrosine phosphatase activity	9
+Function	voltage-gated ion channel activity	9
+Function	oxygen transporter activity	9
+Function	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	9
+Function	DNA-directed RNA polymerase activity	9
+Function	p53 binding	9
+Function	transcription elongation regulator activity	9
+Function	troponin C binding	9
+Function	triose-phosphate isomerase activity	9
+Function	Rab GTPase activator activity	9
+Function	acid phosphatase activity	8
+Function	alcohol dehydrogenase (NAD) activity	8
+Function	coenzyme binding	8
+Function	ATPase binding	8
+Function	aldo-keto reductase activity	8
+Function	eukaryotic cell surface binding	8
+Function	carbonate dehydratase activity	8
+Function	ion channel activity	8
+Function	chloride channel activity	8
+Function	voltage-gated chloride channel activity	8
+Function	protein disulfide oxidoreductase activity	8
+Function	enzyme regulator activity	8
+Function	retinal binding	8
+Function	superoxide-generating NADPH oxidase activity	8
+Function	chaperone binding	8
+Function	exonuclease activity	8
+Function	glucose-6-phosphate transmembrane transporter activity	8
+Function	cytokine activity	8
+Function	histone deacetylase binding	8
+Function	phosphatidylethanolamine binding	8
+Function	thioredoxin peroxidase activity	8
+Function	pyruvate kinase activity	8
+Function	DNA clamp loader activity	8
+Function	translation initiation factor binding	8
+Function	superoxide dismutase activity	8
+Function	sulfotransferase activity	8
+Function	troponin T binding	8
+Function	ubiquitin binding	8
+Function	ubiquitin thiolesterase activity	8
+Function	voltage-gated anion channel activity	8
+Function	N-acetyltransferase activity	8
+Function	inositol or phosphatidylinositol kinase activity	8
+Function	inositol trisphosphate 3-kinase activity	8
+Function	phosphate binding	7
+Function	amino acid binding	7
+Function	nucleoside kinase activity	7
+Function	tubulin binding	7
+Function	phosphatidylinositol-4,5-bisphosphate binding	7
+Function	phospholipase inhibitor activity	7
+Function	copper ion binding	7
+Function	ammonia transmembrane transporter activity	7
+Function	cyclin-dependent protein kinase inhibitor activity	7
+Function	protein tyrosine/serine/threonine phosphatase activity	7
+Function	cytochrome-c oxidase activity	7
+Function	carboxylic acid binding	7
+Function	nucleoside transmembrane transporter activity	7
+Function	phospholipid binding	7
+Function	3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase activity	7
+Function	histone deacetylase activity	7
+Function	iron-sulfur cluster binding	7
+Function	cofactor binding	7
+Function	FMN binding	7
+Function	nucleoside diphosphate kinase activity	7
+Function	oxidized purine base lesion DNA N-glycosylase activity	7
+Function	3'-5'-exoribonuclease activity	7
+Function	proteasome activator activity	7
+Function	N-acetyllactosaminide alpha-2,3-sialyltransferase activity	7
+Function	transmembrane receptor activity	7
+Function	ribonuclease P activity	7
+Function	protein transmembrane transporter activity	7
+Function	acetylcholine binding	6
+Function	beta-amyloid binding	6
+Function	alcohol dehydrogenase activity, zinc-dependent	6
+Function	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	6
+Function	alanine-glyoxylate transaminase activity	6
+Function	adenylate kinase activity	6
+Function	fructose-bisphosphate aldolase activity	6
+Function	enzyme activator activity	6
+Function	uracil DNA N-glycosylase activity	6
+Function	antioxidant activity	6
+Function	water channel activity	6
+Function	drug binding	6
+Function	endopeptidase inhibitor activity	6
+Function	RNA polymerase II carboxy-terminal domain kinase activity	6
+Function	androgen receptor binding	6
+Function	creatine kinase activity	6
+Function	peptide binding	6
+Function	bile acid binding	6
+Function	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity	6
+Function	deoxyribonuclease activity	6
+Function	U6 snRNA binding	6
+Function	single-stranded DNA binding	6
+Function	alpha(1,3)-fucosyltransferase activity	6
+Function	L-aspartate:2-oxoglutarate aminotransferase activity	6
+Function	protein kinase C binding	6
+Function	TPR domain binding	6
+Function	isocitrate dehydrogenase (NAD+) activity	6
+Function	insulin-like growth factor binding	6
+Function	oxidoreductase activity, acting on NADH or NADPH	6
+Function	2 iron, 2 sulfur cluster binding	6
+Function	symporter activity	6
+Function	arylesterase activity	6
+Function	phosphoprotein phosphatase activity	6
+Function	calmodulin binding	6
+Function	palmitoyl-(protein) hydrolase activity	6
+Function	Ran GTPase binding	6
+Function	ammonium transmembrane transporter activity	6
+Function	promoter binding	6
+Function	ribonucleoprotein binding	6
+Function	aryl sulfotransferase activity	6
+Function	tryptophan-tRNA ligase activity	6
+Function	microtubule motor activity	6
+Function	P-P-bond-hydrolysis-driven protein transmembrane transporter activity	6
+Function	15-oxoprostaglandin 13-oxidase activity	6
+Function	tRNA 2'-phosphotransferase activity	6
+Function	transferase activity, transferring phosphorus-containing groups	6
+Function	ferrous iron binding	5
+Function	ADP binding	5
+Function	NADPH:quinone reductase activity	5
+Function	fructose binding	5
+Function	Rab GTPase binding	5
+Function	endodeoxyribonuclease activity	5
+Function	arylsulfatase activity	5
+Function	cerebroside-sulfatase activity	5
+Function	sulfuric ester hydrolase activity	5
+Function	MHC class I protein binding	5
+Function	hydrogen-exporting ATPase activity, phosphorylative mechanism	5
+Function	carboxypeptidase activity	5
+Function	calcium-dependent cysteine-type endopeptidase activity	5
+Function	carbonyl reductase (NADPH) activity	5
+Function	mRNA 3'-UTR binding	5
+Function	antiporter activity	5
+Function	C-C chemokine receptor activity	5
+Function	retinoid binding	5
+Function	microtubule binding	5
+Function	cytochrome-b5 reductase activity	5
+Function	metalloendopeptidase activity	5
+Function	fructose-2,6-bisphosphate 2-phosphatase activity	5
+Function	GMP reductase activity	5
+Function	ATPase activity, coupled	5
+Function	insulin-like growth factor receptor binding	5
+Function	peroxidase activity	5
+Function	cell surface binding	5
+Function	RNA polymerase II transcription factor activity, enhancer binding	5
+Function	two-component sensor activity	5
+Function	kinase binding	5
+Function	potassium ion binding	5
+Function	phospholipase A2 activity	5
+Function	inorganic diphosphatase activity	5
+Function	cAMP-dependent protein kinase regulator activity	5
+Function	endopeptidase activity	5
+Function	protein phosphatase 1 binding	5
+Function	voltage-gated potassium channel activity	5
+Function	ubiquitin-specific protease activity	5
+Function	peptide alpha-N-acetyltransferase activity	5
+Function	NEDD8 activating enzyme activity	5
+Function	RNA polymerase II transcription mediator activity	5
+Function	phosphoinositide binding	5
+Function	DNA 5'-adenosine monophosphate hydrolase activity	5
+Function	phosphoglycolate phosphatase activity	5
+Function	lactose binding	5
+Function	transferase activity, transferring hexosyl groups	4
+Function	acetylcholinesterase activity	4
+Function	cholinesterase activity	4
+Function	collagen binding	4
+Function	non-membrane spanning protein tyrosine phosphatase activity	4
+Function	integrin binding	4
+Function	N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	4
+Function	adenylosuccinate synthase activity	4
+Function	glycine binding	4
+Function	transferase activity, transferring nitrogenous groups	4
+Function	aldehyde reductase activity	4
+Function	3'-5' exonuclease activity	4
+Function	DNA-(apurinic or apyrimidinic site) lyase activity	4
+Function	ribonuclease H activity	4
+Function	AMP binding	4
+Function	argininosuccinate lyase activity	4
+Function	sodium:potassium-exchanging ATPase activity	4
+Function	photoreceptor activity	4
+Function	protein complex scaffold	4
+Function	NF-kappaB binding	4
+Function	G-protein beta/gamma-subunit binding	4
+Function	nicotinic acetylcholine-activated cation-selective channel activity	4
+Function	thyroid hormone binding	4
+Function	L-cystine transmembrane transporter activity	4
+Function	kininogen binding	4
+Function	3-alpha-hydroxysteroid dehydrogenase (A-specific) activity	4
+Function	platelet-derived growth factor receptor binding	4
+Function	phosphopyruvate hydratase activity	4
+Function	translation release factor activity	4
+Function	glycoprotein binding	4
+Function	ryanodine-sensitive calcium-release channel activity	4
+Function	glycoprotein 6-alpha-L-fucosyltransferase activity	4
+Function	nucleotidyltransferase activity	4
+Function	phosphoribosylamine-glycine ligase activity	4
+Function	phosphoribosylformylglycinamidine cyclo-ligase activity	4
+Function	phosphoribosylglycinamide formyltransferase activity	4
+Function	glutathione disulfide oxidoreductase activity	4
+Function	guanyl nucleotide binding	4
+Function	G-protein-coupled receptor binding	4
+Function	purinergic nucleotide receptor activity, G-protein coupled	4
+Function	glutathione binding	4
+Function	hemoglobin binding	4
+Function	protein deacetylase activity	4
+Function	specific transcriptional repressor activity	4
+Function	hydroxymethylglutaryl-CoA synthase activity	4
+Function	lysine-tRNA ligase activity	4
+Function	L-malate dehydrogenase activity	4
+Function	tRNA (guanine-N7-)-methyltransferase activity	4
+Function	DNA N-glycosylase activity	4
+Function	phosphotransferase activity, alcohol group as acceptor	4
+Function	nucleoside binding	4
+Function	phosphoglycerate mutase activity	4
+Function	aryldialkylphosphatase activity	4
+Function	serine-type carboxypeptidase activity	4
+Function	cyclosporin A binding	4
+Function	oxygen-dependent protoporphyrinogen oxidase activity	4
+Function	palmitoyl-CoA hydrolase activity	4
+Function	ankyrin binding	4
+Function	7S RNA binding	4
+Function	C2H2 zinc finger domain binding	4
+Function	transcription activator binding	4
+Function	estrogen receptor binding	4
+Function	hormone binding	4
+Function	calcium-dependent ATPase activity	4
+Function	glucuronosyltransferase activity	4
+Function	uridine kinase activity	4
+Function	acetyltransferase activity	4
+Function	hydrolase activity, acting on ester bonds	4
+Function	proteasome binding	4
+Function	beta-tubulin binding	4
+Function	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity	4
+Function	pseudouridine synthase activity	4
+Function	ribosylnicotinamide kinase activity	4
+Function	sialyltransferase activity	4
+Function	phosphatidylcholine transmembrane transporter activity	4
+Function	1-phosphatidylinositol-5-phosphate 4-kinase activity	4
+Function	ATPase inhibitor activity	4
+Function	structural constituent of vitelline membrane	4
+Function	retinol dehydrogenase activity	3
+Function	5-aminolevulinate synthase activity	3
+Function	aldehyde dehydrogenase (NAD) activity	3
+Function	alpha-amylase activity	3
+Function	phosphodiesterase I activity	3
+Function	phosphoric diester hydrolase activity	3
+Function	phosphatidylcholine binding	3
+Function	water transmembrane transporter activity	3
+Function	epidermal growth factor receptor binding	3
+Function	GTPase inhibitor activity	3
+Function	ceramidase activity	3
+Function	O-methyltransferase activity	3
+Function	cholesterol binding	3
+Function	sodium channel regulator activity	3
+Function	1-aminocyclopropane-1-carboxylate synthase activity	3
+Function	cysteine-S-conjugate beta-lyase activity	3
+Function	glutamine-phenylpyruvate transaminase activity	3
+Function	kynurenine-oxoglutarate transaminase activity	3
+Function	transaminase activity	3
+Function	DNA-dependent ATPase activity	3
+Function	triglyceride lipase activity	3
+Function	chitin binding	3
+Function	cyclin-dependent protein kinase regulator activity	3
+Function	misfolded protein binding	3
+Function	C-X-C chemokine receptor activity	3
+Function	chemokine receptor activity	3
+Function	cytokine binding	3
+Function	low-density lipoprotein binding	3
+Function	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen	3
+Function	dolichyl-diphosphooligosaccharide-protein glycotransferase activity	3
+Function	aspartate-tRNA ligase activity	3
+Function	dipeptidyl-peptidase activity	3
+Function	protease binding	3
+Function	thymidine phosphorylase activity	3
+Function	transferase activity, transferring pentosyl groups	3
+Function	fructose 1,6-bisphosphate 1-phosphatase activity	3
+Function	monosaccharide binding	3
+Function	phosphoric ester hydrolase activity	3
+Function	SMAD binding	3
+Function	prenyltransferase activity	3
+Function	glutamate decarboxylase activity	3
+Function	glutamate-ammonia ligase activity	3
+Function	selenium binding	3
+Function	phospholipid-hydroperoxide glutathione peroxidase activity	3
+Function	protein disulfide isomerase activity	3
+Function	RNA polymerase III transcription factor activity	3
+Function	glycogenin glucosyltransferase activity	3
+Function	3-hydroxyacyl-CoA dehydrogenase activity	3
+Function	estradiol 17-beta-dehydrogenase activity	3
+Function	acyl-CoA binding	3
+Function	hydroxymethylglutaryl-CoA lyase activity	3
+Function	single-stranded RNA binding	3
+Function	nitric-oxide synthase regulator activity	3
+Function	insulin receptor binding	3
+Function	galactose binding	3
+Function	lysozyme activity	3
+Function	alkylbase DNA N-glycosylase activity	3
+Function	actin monomer binding	3
+Function	quinone binding	3
+Function	pyruvate dehydrogenase (acetyl-transferring) activity	3
+Function	2,3-bisphospho-D-glycerate 2-phosphohydrolase activity	3
+Function	bisphosphoglycerate mutase activity	3
+Function	phosphoglycerate kinase activity	3
+Function	phosphate carrier activity	3
+Function	L-ascorbic acid binding	3
+Function	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen	3
+Function	phosphatidylinositol N-acetylglucosaminyltransferase activity	3
+Function	phosphoserine binding	3
+Function	phospholipid scramblase activity	3
+Function	protein phosphatase type 1 regulator activity	3
+Function	mRNA 5'-UTR binding	3
+Function	serine-tRNA ligase activity	3
+Function	sterol binding	3
+Function	endoplasmic reticulum signal peptide binding	3
+Function	transcription initiation factor activity	3
+Function	siRNA binding	3
+Function	ligand-dependent nuclear receptor transcription coactivator activity	3
+Function	small conjugating protein ligase activity	3
+Function	oxidative phosphorylation uncoupler activity	3
+Function	ubiquinol-cytochrome-c reductase activity	3
+Function	phosphoprotein binding	3
+Function	oxoglutarate:malate antiporter activity	3
+Function	phosphatidate phosphatase activity	3
+Function	sphingosine-1-phosphate phosphatase activity	3
+Function	protein kinase inhibitor activity	3
+Function	syntaxin binding	3
+Function	dolichyl-phosphate beta-D-mannosyltransferase activity	3
+Function	SH3/SH2 adaptor activity	3
+Function	SH2 domain binding	3
+Function	receptor tyrosine kinase binding	3
+Function	nucleoside:sodium symporter activity	3
+Function	peroxiredoxin activity	3
+Function	NEDD8 ligase activity	3
+Function	ATP-dependent RNA helicase activity	3
+Function	poly(A) RNA binding	3
+Function	transition metal ion binding	3
+Function	phosphatidylethanolamine N-methyltransferase activity	3
+Function	snoRNA binding	3
+Function	phosphoribosylaminoimidazole carboxylase activity	3
+Function	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity	3
+Function	phenylalanine-tRNA ligase activity	3
+Function	folic acid binding	3
+Function	metalloexopeptidase activity	3
+Function	galactosyltransferase activity	3
+Function	general transcriptional repressor activity	3
+Function	GABA receptor binding	3
+Function	2-alkenal reductase activity	3
+Function	NAD+ ADP-ribosyltransferase activity	3
+Function	farnesylated protein binding	3
+Function	beta-catenin binding	3
+Function	protein tyrosine kinase activity	3
+Function	polyubiquitin binding	3
+Function	CD4 receptor binding	3
+Function	diphthine synthase activity	3
+Function	2-acylglycerol O-acyltransferase activity	3
+Function	pseudouridylate synthase activity	3
+Function	laminin-1 binding	2
+Function	serine hydrolase activity	2
+Function	myosin binding	2
+Function	kinesin binding	2
+Function	ethanol binding	2
+Function	receptor antagonist activity	2
+Function	(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity	2
+Function	protein self-association	2
+Function	adenosylhomocysteinase activity	2
+Function	alkaline phosphatase activity	2
+Function	calcium channel inhibitor activity	2
+Function	ATP:ADP antiporter activity	2
+Function	adenine transmembrane transporter activity	2
+Function	adenine binding	2
+Function	adenine phosphoribosyltransferase activity	2
+Function	glycerol transmembrane transporter activity	2
+Function	pyrimidine transmembrane transporter activity	2
+Function	specific RNA polymerase II transcription factor activity	2
+Function	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) activity	2
+Function	alpha-ketoacid dehydrogenase activity	2
+Function	carboxy-lyase activity	2
+Function	betaine-homocysteine S-methyltransferase activity	2
+Function	homocysteine S-methyltransferase activity	2
+Function	benzodiazepine receptor activity	2
+Function	ubiquitin-protein ligase inhibitor activity	2
+Function	sterol esterase activity	2
+Function	3-alpha-hydroxysteroid dehydrogenase (B-specific) activity	2
+Function	extracellular matrix structural constituent	2
+Function	acetylcholine receptor activity	2
+Function	extracellular ligand-gated ion channel activity	2
+Function	translation repressor activity	2
+Function	PDZ domain binding	2
+Function	ciliary neurotrophic factor receptor activity	2
+Function	neuropeptide hormone activity	2
+Function	cystathionine beta-lyase activity	2
+Function	cystathionine gamma-lyase activity	2
+Function	indanol dehydrogenase activity	2
+Function	lipoic acid binding	2
+Function	thymidylate kinase activity	2
+Function	dUTP diphosphatase activity	2
+Function	enoyl-CoA hydratase activity	2
+Function	ephrin receptor binding	2
+Function	RNA cap binding	2
+Function	translation release factor activity, codon specific	2
+Function	long-chain fatty acid transporter activity	2
+Function	5'-flap endonuclease activity	2
+Function	chemoattractant activity	2
+Function	activin binding	2
+Function	macrolide binding	2
+Function	transforming growth factor beta receptor activity	2
+Function	transforming growth factor beta receptor binding	2
+Function	type I transforming growth factor beta receptor binding	2
+Function	ferroxidase activity	2
+Function	guanidinoacetate N-methyltransferase activity	2
+Function	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) activity	2
+Function	glutaryl-CoA dehydrogenase activity	2
+Function	acyl binding	2
+Function	glycerol-3-phosphate dehydrogenase (NAD+) activity	2
+Function	proteasome inhibitor activity	2
+Function	calcium sensitive guanylate cyclase activator activity	2
+Function	3-hydroxy-2-methylbutyryl-CoA dehydrogenase activity	2
+Function	7-alpha-hydroxysteroid dehydrogenase activity	2
+Function	acetoacetyl-CoA reductase activity	2
+Function	holocytochrome-c synthase activity	2
+Function	MHC class I receptor activity	2
+Function	heme oxygenase (decyclizing) activity	2
+Function	single-stranded telomeric DNA binding	2
+Function	DNA replication origin binding	2
+Function	telomeric DNA binding	2
+Function	hypoxanthine phosphoribosyltransferase activity	2
+Function	low-density lipoprotein receptor binding	2
+Function	isocitrate dehydrogenase (NADP+) activity	2
+Function	isopentenyl-diphosphate delta-isomerase activity	2
+Function	isovaleryl-CoA dehydrogenase activity	2
+Function	ketohexokinase activity	2
+Function	structural constituent of epidermis	2
+Function	galactoside binding	2
+Function	apolipoprotein binding	2
+Function	lipoprotein binding	2
+Function	phosphatidylserine binding	2
+Function	mevalonate kinase activity	2
+Function	myosin II heavy chain binding	2
+Function	actin-dependent ATPase activity	2
+Function	hydrolase activity, hydrolyzing O-glycosyl compounds	2
+Function	acyl carrier activity	2
+Function	gamma-tubulin binding	2
+Function	purine-nucleoside phosphorylase activity	2
+Function	ornithine decarboxylase inhibitor activity	2
+Function	ornithine carbamoyltransferase activity	2
+Function	ubiquitin protein ligase binding	2
+Function	acrosin binding	2
+Function	DNA polymerase processivity factor activity	2
+Function	MutLalpha complex binding	2
+Function	dinucleotide insertion or deletion binding	2
+Function	purine-specific mismatch base pair DNA N-glycosylase activity	2
+Function	pyruvate dehydrogenase (acetyl-transferring) kinase activity	2
+Function	6-phosphofructo-2-kinase activity	2
+Function	phosphogluconate dehydrogenase (decarboxylating) activity	2
+Function	phosphoglucomutase activity	2
+Function	phytanoyl-CoA dioxygenase activity	2
+Function	phosphothreonine binding	2
+Function	AMP-activated protein kinase activity	2
+Function	cAMP-dependent protein kinase activity	2
+Function	cAMP binding	2
+Function	phosphoprotein phosphatase inhibitor activity	2
+Function	ribonuclease inhibitor activity	2
+Function	ribulose-phosphate 3-epimerase activity	2
+Function	diamine N-acetyltransferase activity	2
+Function	C-4 methylsterol oxidase activity	2
+Function	propanoyl-CoA C-acyltransferase activity	2
+Function	transferase activity, transferring acyl groups other than amino-acyl groups	2
+Function	dolichyl-phosphate-mannose-protein mannosyltransferase activity	2
+Function	ubiquinone binding	2
+Function	tryptophan 5-monooxygenase activity	2
+Function	hydrolase activity, hydrolyzing N-glycosyl compounds	2
+Function	uridine phosphorylase activity	2
+Function	bHLH transcription factor binding	2
+Function	coreceptor activity	2
+Function	myosin light chain binding	2
+Function	D-amino-acid oxidase activity	2
+Function	D-aspartate oxidase activity	2
+Function	testosterone 17-beta-dehydrogenase (NADP+) activity	2
+Function	histone methyltransferase activity	2
+Function	succinate-CoA ligase (GDP-forming) activity	2
+Function	3-chloroallyl aldehyde dehydrogenase activity	2
+Function	retinal dehydrogenase activity	2
+Function	acid-amino acid ligase activity	2
+Function	ligand-dependent nuclear receptor binding	2
+Function	small GTPase regulator activity	2
+Function	ISG15 ligase activity	2
+Function	disulfide oxidoreductase activity	2
+Function	glyoxylate reductase (NADP) activity	2
+Function	potassium channel activity	2
+Function	ligand-dependent nuclear receptor activity	2
+Function	steroid hormone receptor activity	2
+Function	MDM2 binding	2
+Function	[3-methyl-2-oxobutanoate dehydrogenase (acetyl-transferring)] kinase activity	2
+Function	L-glucuronate reductase activity	2
+Function	alcohol dehydrogenase (NADP+) activity	2
+Function	tumor necrosis factor receptor binding	2
+Function	prostaglandin-E synthase activity	2
+Function	methenyltetrahydrofolate cyclohydrolase activity	2
+Function	methylenetetrahydrofolate dehydrogenase (NAD+) activity	2
+Function	methylenetetrahydrofolate dehydrogenase (NADP+) activity	2
+Function	leukotriene receptor activity	2
+Function	formimidoyltetrahydrofolate cyclodeaminase activity	2
+Function	glutamate formimidoyltransferase activity	2
+Function	dynein binding	2
+Function	diphosphoinositol-polyphosphate diphosphatase activity	2
+Function	neurexin binding	2
+Function	ribose-5-phosphate isomerase activity	2
+Function	NAD binding	2
+Function	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	2
+Function	monovalent inorganic cation transmembrane transporter activity	2
+Function	nicotinate-nucleotide diphosphorylase (carboxylating) activity	2
+Function	peptide-O-fucosyltransferase activity	2
+Function	single-strand selective uracil DNA N-glycosylase activity	2
+Function	carbohydrate binding	2
+Function	cell adhesion molecule binding	2
+Function	Rac GTPase binding	2
+Function	voltage-gated proton channel activity	2
+Function	UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity	2
+Function	rRNA (adenine-N6,N6-)-dimethyltransferase activity	2
+Function	[acyl-carrier-protein] S-malonyltransferase activity	2
+Function	dolichyl-phosphate beta-glucosyltransferase activity	2
+Function	oligosaccharyl transferase activity	2
+Function	Rho guanyl-nucleotide exchange factor activity	2
+Function	arsenate reductase (glutaredoxin) activity	2
+Function	C-terminal protein carboxyl methyltransferase activity	2
+Function	S-adenosylmethionine-dependent methyltransferase activity	2
+Function	aminoacyl-tRNA hydrolase activity	2
+Function	phosphoserine phosphatase activity	2
+Function	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	2
+Function	dipeptidase activity	2
+Function	phosphatidylinositol-3-phosphate binding	2
+Function	kinase regulator activity	2
+Function	tetracycline:hydrogen antiporter activity	2
+Function	tRNA-intron endonuclease activity	2
+Function	phosphopantothenate--cysteine ligase activity	2
+Function	asparagine-tRNA ligase activity	2
+Function	dephospho-CoA kinase activity	2
+Function	alanine-tRNA ligase activity	2
+Function	ligase activity, forming aminoacyl-tRNA and related compounds	2
+Function	queuine tRNA-ribosyltransferase activity	2
+Function	deoxyhypusine monooxygenase activity	2
+Function	cation transmembrane transporter activity	2
+Function	5'-nucleotidase activity	2
+Function	angiostatin binding	2
+Function	urocanate hydratase activity	2
+Function	aralkylamine N-acetyltransferase activity	1
+Function	arylamine N-acetyltransferase activity	1
+Function	fucosylgalactoside 3-alpha-galactosyltransferase activity	1
+Function	glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase activity	1
+Function	nitric-oxide synthase binding	1
+Function	all-trans retinal binding	1
+Function	benzaldehyde dehydrogenase activity	1
+Function	S-(hydroxymethyl)glutathione dehydrogenase activity	1
+Function	formaldehyde dehydrogenase activity	1
+Function	aldehyde oxidase activity	1
+Function	ADP-ribosylarginine hydrolase activity	1
+Function	N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity	1
+Function	serine-pyruvate transaminase activity	1
+Function	lead ion binding	1
+Function	porphobilinogen synthase activity	1
+Function	aldehyde dehydrogenase [NAD(P)+] activity	1
+Function	4-trimethylammoniobutyraldehyde dehydrogenase activity	1
+Function	aminobutyraldehyde dehydrogenase activity	1
+Function	arachidonic acid binding	1
+Function	IgA binding	1
+Function	calcium oxalate binding	1
+Function	AMP deaminase activity	1
+Function	cholesterol transporter activity	1
+Function	lipid transporter activity	1
+Function	phosphatidylcholine-sterol O-acyltransferase activator activity	1
+Function	potassium ion transmembrane transporter activity	1
+Function	glycerol channel activity	1
+Function	amine transmembrane transporter activity	1
+Function	carboxylic acid transmembrane transporter activity	1
+Function	polyol transmembrane transporter activity	1
+Function	porin activity	1
+Function	purine transmembrane transporter activity	1
+Function	Rho GDP-dissociation inhibitor activity	1
+Function	S-methyltransferase activity	1
+Function	acetylserotonin O-methyltransferase activity	1
+Function	S100 alpha binding	1
+Function	lutropin-choriogonadotropic hormone receptor binding	1
+Function	lipoprotein receptor activity	1
+Function	complement binding	1
+Function	biliverdin reductase activity	1
+Function	flavin reductase activity	1
+Function	complement component C1q binding	1
+Function	nickel ion binding	1
+Function	acyl carnitine transporter activity	1
+Function	15-hydroxyprostaglandin dehydrogenase (NADP+) activity	1
+Function	prostaglandin-E2 9-reductase activity	1
+Function	NADPH binding	1
+Function	nucleoside-diphosphatase activity	1
+Function	cysteine dioxygenase activity	1
+Function	acylglycerol lipase activity	1
+Function	bile acid transmembrane transporter activity	1
+Function	chlordecone reductase activity	1
+Function	endochitinase activity	1
+Function	SSU rRNA binding	1
+Function	retinoic acid binding	1
+Function	adrenocorticotropin-releasing hormone activity	1
+Function	corticotropin-releasing hormone receptor 1 binding	1
+Function	corticotropin-releasing hormone receptor 2 binding	1
+Function	adrenocorticotropin-releasing hormone binding	1
+Function	Gram-positive bacterial cell surface binding	1
+Function	choline binding	1
+Function	protein kinase regulator activity	1
+Function	dicarboxylic acid transmembrane transporter activity	1
+Function	electron transporter, transferring electrons from CoQH2-cytochrome c reductase complex and cytochrome c oxidase complex activity	1
+Function	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen	1
+Function	arachidonic acid 11,12-epoxygenase activity	1
+Function	arachidonic acid 14,15-epoxygenase activity	1
+Function	arachidonic acid epoxygenase activity	1
+Function	albendazole monooxygenase activity	1
+Function	caffeine oxidase activity	1
+Function	quinine 3-monooxygenase activity	1
+Function	steroid hydroxylase activity	1
+Function	taurochenodeoxycholate 6alpha-hydroxylase activity	1
+Function	testosterone 6-beta-hydroxylase activity	1
+Function	vitamin D 24-hydroxylase activity	1
+Function	vitamin D3 25-hydroxylase activity	1
+Function	aminoacylase activity	1
+Function	dodecenoyl-CoA delta-isomerase activity	1
+Function	20-alpha-hydroxysteroid dehydrogenase activity	1
+Function	dihydrolipoyl dehydrogenase activity	1
+Function	lipoamide binding	1
+Function	dihydrolipoyllysine-residue succinyltransferase activity	1
+Function	deoxyribonuclease II activity	1
+Function	collagen V binding	1
+Function	MAP kinase tyrosine/serine/threonine phosphatase activity	1
+Function	single-stranded DNA specific endodeoxyribonuclease activity	1
+Function	structure-specific DNA binding	1
+Function	S-formylglutathione hydrolase activity	1
+Function	translation termination factor activity	1
+Function	thrombospondin receptor activity	1
+Function	icosatetraenoic acid binding	1
+Function	5'-3' exonuclease activity	1
+Function	double-stranded DNA specific exodeoxyribonuclease activity	1
+Function	fibroblast growth factor receptor binding	1
+Function	type 2 fibroblast growth factor receptor binding	1
+Function	vascular endothelial growth factor receptor 3 binding	1
+Function	protein farnesyltransferase activity	1
+Function	Wnt-protein binding	1
+Function	alpha-L-fucosidase activity	1
+Function	UDP-glucose:hexose-1-phosphate uridylyltransferase activity	1
+Function	GTP cyclohydrolase I binding	1
+Function	GTP-dependent protein binding	1
+Function	aminomethyltransferase activity	1
+Function	lactoylglutathione lyase activity	1
+Function	GDP-mannose 4,6-dehydratase activity	1
+Function	G-protein coupled photoreceptor activity	1
+Function	type 1 angiotensin receptor binding	1
+Function	phosphatidylserine decarboxylase activity	1
+Function	glycerol-3-phosphate dehydrogenase activity	1
+Function	glucose-6-phosphate isomerase activity	1
+Function	neuropeptide Y receptor activity	1
+Function	neuropeptide receptor activity	1
+Function	peptide hormone binding	1
+Function	phospholipase C activity	1
+Function	TATA-binding protein binding	1
+Function	guanylate cyclase regulator activity	1
+Function	glucose binding	1
+Function	homogentisate 1,2-dioxygenase activity	1
+Function	MHC class II receptor activity	1
+Function	DNA bending activity	1
+Function	phospholipase D activity	1
+Function	4-hydroxyphenylpyruvate dioxygenase activity	1
+Function	heme transporter activity	1
+Function	11-beta-hydroxysteroid dehydrogenase activity	1
+Function	IMP dehydrogenase activity	1
+Function	nuclear localization sequence binding	1
+Function	phospholipase activity	1
+Function	asialoglycoprotein receptor activity	1
+Function	very-low-density lipoprotein receptor binding	1
+Function	methionine adenosyltransferase activity	1
+Function	malic enzyme activity	1
+Function	malate dehydrogenase (NADP+) activity	1
+Function	alpha-1,6-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity	1
+Function	DNA-methyltransferase activity	1
+Function	methylated-DNA-[protein]-cysteine S-methyltransferase activity	1
+Function	cytokine receptor binding	1
+Function	dopachrome isomerase activity	1
+Function	phenylpyruvate tautomerase activity	1
+Function	malonate-semialdehyde dehydrogenase (acetylating) activity	1
+Function	methylmalonate-semialdehyde dehydrogenase (acylating) activity	1
+Function	thiolester hydrolase activity	1
+Function	guanylate kinase activity	1
+Function	myosin heavy chain binding	1
+Function	alpha-N-acetylgalactosaminidase activity	1
+Function	phosphopantetheine binding	1
+Function	nerve growth factor receptor binding	1
+Function	receptor signaling protein activity	1
+Function	purine binding	1
+Function	mitogen-activated protein kinase binding	1
+Function	phenylalanine 4-monooxygenase activity	1
+Function	propionyl-CoA carboxylase activity	1
+Function	glycosaminoglycan binding	1
+Function	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	1
+Function	3',5'-cyclic-nucleotide phosphodiesterase activity	1
+Function	fructose-6-phosphate binding	1
+Function	Rho GTPase binding	1
+Function	proline-rich region binding	1
+Function	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	1
+Function	calcium-dependent phospholipase A2 activity	1
+Function	LRR domain binding	1
+Function	pyrophosphatase activity	1
+Function	amidophosphoribosyltransferase activity	1
+Function	protein phosphatase type 2A regulator activity	1
+Function	NF-kappaB-inducing kinase activity	1
+Function	calcium-dependent protein serine/threonine phosphatase activity	1
+Function	MAP kinase activity	1
+Function	MP kinase activity	1
+Function	thyrotropin-releasing hormone receptor binding	1
+Function	6-pyruvoyltetrahydropterin synthase activity	1
+Function	6,7-dihydropteridine reductase activity	1
+Function	Rab geranylgeranyltransferase activity	1
+Function	GDP-dissociation inhibitor activity	1
+Function	arginine-tRNA ligase activity	1
+Function	retinol transporter activity	1
+Function	N-acylglucosamine 2-epimerase activity	1
+Function	mannose-6-phosphate isomerase activity	1
+Function	purine nucleotide binding	1
+Function	11-cis retinal binding	1
+Function	all-trans-retinyl-palmitate hydrolase activity	1
+Function	retinal isomerase activity	1
+Function	retinol isomerase activity	1
+Function	5S rRNA binding	1
+Function	fibroblast growth factor 1 binding	1
+Function	fibroblast growth factor 3 binding	1
+Function	RAGE receptor binding	1
+Function	S100 beta binding	1
+Function	tau protein binding	1
+Function	voltage-gated sodium channel activity	1
+Function	3 iron, 4 sulfur cluster binding	1
+Function	succinate dehydrogenase (ubiquinone) activity	1
+Function	succinate dehydrogenase activity	1
+Function	L-glutamate transmembrane transporter activity	1
+Function	glutamate binding	1
+Function	high-affinity glutamate transmembrane transporter activity	1
+Function	sodium:dicarboxylate symporter activity	1
+Function	citrate transmembrane transporter activity	1
+Function	SUMO ligase activity	1
+Function	U1 snRNA binding	1
+Function	histone pre-mRNA DCP binding	1
+Function	protein phosphatase 2B binding	1
+Function	chromo shadow domain binding	1
+Function	extracellular matrix binding	1
+Function	3-oxo-5-beta-steroid 4-dehydrogenase activity	1
+Function	delta4-3-oxosteroid 5beta-reductase activity	1
+Function	signal sequence binding	1
+Function	estrone sulfotransferase activity	1
+Function	steroid sulfotransferase activity	1
+Function	negative transcription elongation factor activity	1
+Function	positive transcription elongation factor activity	1
+Function	RNA polymerase binding	1
+Function	transaldolase activity	1
+Function	tryptophan 2,3-dioxygenase activity	1
+Function	thiosulfate sulfurtransferase activity	1
+Function	GDP-4-dehydro-D-rhamnose reductase activity	1
+Function	GDP-L-fucose synthase activity	1
+Function	vitamin E binding	1
+Function	non-membrane spanning protein tyrosine kinase activity	1
+Function	omega peptidase activity	1
+Function	oxidoreductase activity, acting on diphenols and related substances as donors	1
+Function	uroporphyrinogen decarboxylase activity	1
+Function	MAP kinase kinase activity	1
+Function	prenylated protein tyrosine phosphatase activity	1
+Function	CMP-N-acetylneuraminate monooxygenase activity	1
+Function	malate dehydrogenase activity	1
+Function	titin Z domain binding	1
+Function	titin binding	1
+Function	potassium channel inhibitor activity	1
+Function	interleukin-8 receptor binding	1
+Function	tyrosine-tRNA ligase activity	1
+Function	eukaryotic initiation factor 4E binding	1
+Function	prostaglandin-F synthase activity	1
+Function	testosterone 17-beta-dehydrogenase activity	1
+Function	kinase inhibitor activity	1
+Function	death domain binding	1
+Function	ATP citrate synthase activity	1
+Function	succinate-CoA ligase (ADP-forming) activity	1
+Function	JAK pathway signal transduction adaptor activity	1
+Function	growth hormone receptor binding	1
+Function	prolactin receptor binding	1
+Function	G-protein alpha-subunit binding	1
+Function	lysosphingolipid and lysophosphatidic acid receptor activity	1
+Function	polysaccharide binding	1
+Function	scavenger receptor activity	1
+Function	satellite DNA binding	1
+Function	cysteine desulfurase activity	1
+Function	purine nucleoside transmembrane transporter activity	1
+Function	pyruvate secondary active transmembrane transporter activity	1
+Function	secondary active monocarboxylate transmembrane transporter activity	1
+Function	ATPase activity, uncoupled	1
+Function	glycerate dehydrogenase activity	1
+Function	hydroxypyruvate reductase activity	1
+Function	inward rectifier potassium channel activity	1
+Function	thyroid hormone receptor binding	1
+Function	vitamin D receptor binding	1
+Function	monodehydroascorbate reductase (NADH) activity	1
+Function	glycolipid mannosyltransferase activity	1
+Function	mannosyltransferase activity	1
+Function	galactosylceramide sulfotransferase activity	1
+Function	oxidoreductase activity, acting on the CH-CH group of donors	1
+Function	copper ion transmembrane transporter activity	1
+Function	acyl-CoA thioesterase activity	1
+Function	choloyl-CoA hydrolase activity	1
+Function	glucosamine-6-phosphate deaminase activity	1
+Function	molecular adaptor activity	1
+Function	ATPase activator activity	1
+Function	nicotinamide phosphoribosyltransferase activity	1
+Function	RNA-3'-phosphate cyclase activity	1
+Function	vitamin D binding	1
+Function	Hsp70 protein binding	1
+Function	Hsp90 protein binding	1
+Function	ubiquitin-ubiquitin ligase activity	1
+Function	3'(2'),5'-bisphosphate nucleotidase activity	1
+Function	inositol or phosphatidylinositol phosphatase activity	1
+Function	protein phosphatase binding	1
+Function	CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity	1
+Function	alcohol binding	1
+Function	diacylglycerol binding	1
+Function	phosphatidylinositol transporter activity	1
+Function	phosphotransferase activity, for other substituted phosphate groups	1
+Function	acetyl-CoA C-acyltransferase activity	1
+Function	CMP-sialic acid transmembrane transporter activity	1
+Function	nucleotide-sugar transmembrane transporter activity	1
+Function	sugar:hydrogen symporter activity	1
+Function	telomerase activity	1
+Function	ribonuclease activity	1
+Function	formyltetrahydrofolate dehydrogenase activity	1
+Function	hydroxymethyl-, formyl- and related transferase activity	1
+Function	ATP-dependent DNA helicase activity	1
+Function	DNA helicase activity	1
+Function	epidermal growth factor binding	1
+Function	microtubule-severing ATPase activity	1
+Function	3-hydroxyisobutyrate dehydrogenase activity	1
+Function	ADP-ribose diphosphatase activity	1
+Function	ADP-sugar diphosphatase activity	1
+Function	alpha,alpha-trehalase activity	1
+Function	xylosylprotein 4-beta-galactosyltransferase activity	1
+Function	SNARE binding	1
+Function	peptide-methionine-(S)-S-oxide reductase activity	1
+Function	protein-methionine-R-oxide reductase activity	1
+Function	NAD-dependent protein deacetylase activity	1
+Function	glycine C-acetyltransferase activity	1
+Function	oxidized base lesion DNA N-glycosylase activity	1
+Function	trans-hexaprenyltranstransferase activity	1
+Function	trans-octaprenyltranstransferase activity	1
+Function	calmodulin-dependent protein kinase activity	1
+Function	6-phosphogluconolactonase activity	1
+Function	proline-tRNA ligase activity	1
+Function	carbon-carbon lyase activity	1
+Function	thiamin pyrophosphate binding	1
+Function	2,4-dienoyl-CoA reductase (NADPH) activity	1
+Function	globoside alpha-N-acetylgalactosaminyltransferase activity	1
+Function	glycine N-methyltransferase activity	1
+Function	D-xylose 1-dehydrogenase (NADP+) activity	1
+Function	NAD(P) transhydrogenase activity	1
+Function	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity	1
+Function	NFAT protein binding	1
+Function	histone acetyltransferase binding	1
+Function	caspase activator activity	1
+Function	translation activator activity	1
+Function	L-xylulose reductase (NADP+) activity	1
+Function	oxidoreductase activity, acting on CH-OH group of donors	1
+Function	ATP-dependent peptidase activity	1
+Function	L-pipecolate oxidase activity	1
+Function	sarcosine oxidase activity	1
+Function	phospholipase A1 activity	1
+Function	sulfinoalanine decarboxylase activity	1
+Function	ATPase activity, coupled to transmembrane movement of substances	1
+Function	caspase inhibitor activity	1
+Function	protein methyltransferase activity	1
+Function	UFM1 conjugating enzyme activity	1
+Function	selenocysteine lyase activity	1
+Function	cytidylate kinase activity	1
+Function	phosphotransferase activity, phosphate group as acceptor	1
+Function	beta-ureidopropionase activity	1
+Function	2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity	1
+Function	hexaprenyldihydroxybenzoate methyltransferase activity	1
+Function	tRNA isopentenyltransferase activity	1
+Function	tRNA guanylyltransferase activity	1
+Function	phosphatase inhibitor activity	1
+Function	protein N-terminal glutamine amidohydrolase activity	1
+Function	oxidoreductase activity, acting on the CH-NH2 group of donors	1
+Function	pyridoxamine-phosphate oxidase activity	1
+Function	alpha-tubulin binding	1
+Function	inositol oxygenase activity	1
+Function	oxidoreductase activity, acting on single donors with incorporation of molecular oxygen	1
+Function	alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase activity	1
+Function	phosphatidylinositol-4-phosphate binding	1
+Function	phosphatidylinositol-5-phosphate binding	1
+Function	hydrolase activity, acting on acid anhydrides	1
+Function	N-acetylglucosamine 6-O-sulfotransferase activity	1
+Function	chondroitin 6-sulfotransferase activity	1
+Function	DNA-directed DNA polymerase activity	1
+Function	3-hydroxybutyrate dehydrogenase activity	1
+Function	metalloendopeptidase inhibitor activity	1
+Function	omega-amidase activity	1
+Function	cysteinyl leukotriene receptor activity	1
+Function	Ran guanyl-nucleotide exchange factor activity	1
+Function	microfilament motor activity	1
+Function	FATZ binding	1
+Function	voltage-gated calcium channel activity	1
+Function	purine-specific nucleoside:sodium symporter activity	1
+Function	pyrimidine- and adenine-specific:sodium symporter activity	1
+Function	fructosamine-3-kinase activity	1
+Function	rRNA methyltransferase activity	1
+Function	pyrroline-5-carboxylate reductase activity	1
+Function	gamma-glutamylcyclotransferase activity	1
+Function	glycerophosphodiester phosphodiesterase activity	1
+Function	agmatinase activity	1
+Function	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase activity	1
+Function	stearoyl-CoA 9-desaturase activity	1
+Function	beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase activity	1
+Function	lipopolysaccharide N-acetylglucosaminyltransferase activity	1
+Function	beta-galactoside alpha-2,6-sialyltransferase activity	1
+Function	methylmalonyl-CoA epimerase activity	1
+Function	store-operated calcium channel activity	1
+Function	histone pre-mRNA stem-loop binding	1
+Function	DNA-dependent protein kinase activity	1
+Function	interleukin-2 receptor binding	1
+Function	3-beta-hydroxy-delta5-steroid dehydrogenase activity	1
+Function	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	1
+Function	proline racemase activity	1
+Function	N-acetylmuramoyl-L-alanine amidase activity	1
+Function	peptidoglycan binding	1
+Function	peptidoglycan receptor activity	1
+Function	methylated histone residue binding	1
+Function	neuropeptide binding	1
+Function	GPI anchor binding	1
+Function	GPI-anchor transamidase activity	1
+Function	aminocarboxymuconate-semialdehyde decarboxylase activity	1
+Function	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	1
+Function	imidazolonepropionase activity	1
+Function	adenosine deaminase activity	1
+Function	DNA primase activity	1
+Function	sphingomyelin phosphodiesterase activity	1
+Function	diacylglycerol O-acyltransferase activity	1
+Function	oxidoreductase activity, acting on NADH or NADPH, quinone or similar compound as acceptor	1
+Function	amino acid transmembrane transporter activity	1
+Function	lipoyl(octanoyl) transferase activity	1
+Function	octanoyltransferase activity	1
+Function	endoribonuclease activity	1

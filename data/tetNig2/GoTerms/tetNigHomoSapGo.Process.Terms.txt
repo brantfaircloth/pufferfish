@@ -1,0 +1,2066 @@
+Process	oxidation reduction	216
+Process	translation	185
+Process	transport	149
+Process	metabolic process	146
+Process	signal transduction	144
+Process	regulation of transcription	120
+Process	translational elongation	115
+Process	proteolysis	111
+Process	apoptosis	109
+Process	cell cycle	102
+Process	RNA splicing	97
+Process	protein transport	93
+Process	multicellular organismal development	92
+Process	biological_process	90
+Process	transmembrane transport	87
+Process	interspecies interaction between organisms	86
+Process	mRNA processing	75
+Process	carbohydrate metabolic process	73
+Process	regulation of transcription, DNA-dependent	73
+Process	protein folding	72
+Process	cell differentiation	71
+Process	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	71
+Process	negative regulation of cell proliferation	69
+Process	anti-apoptosis	69
+Process	positive regulation of ubiquitin-protein ligase activity during mitotic cell cycle	67
+Process	ion transport	66
+Process	negative regulation of ubiquitin-protein ligase activity during mitotic cell cycle	63
+Process	lipid metabolic process	62
+Process	cell division	57
+Process	immune response	56
+Process	visual perception	54
+Process	cell proliferation	52
+Process	response to drug	49
+Process	proton transport	49
+Process	positive regulation of cell proliferation	49
+Process	rRNA processing	49
+Process	vesicle-mediated transport	47
+Process	electron transport chain	46
+Process	muscle contraction	45
+Process	G-protein coupled receptor protein signaling pathway	45
+Process	DNA repair	45
+Process	regulation of transcription from RNA polymerase II promoter	45
+Process	chromatin modification	45
+Process	DNA replication	43
+Process	ubiquitin-dependent protein catabolic process	43
+Process	small GTPase mediated signal transduction	42
+Process	positive regulation of transcription from RNA polymerase II promoter	42
+Process	induction of apoptosis	42
+Process	nervous system development	41
+Process	glycolysis	41
+Process	transcription from RNA polymerase II promoter	40
+Process	intracellular signaling cascade	39
+Process	spermatogenesis	38
+Process	mitosis	38
+Process	cell redox homeostasis	37
+Process	response to stimulus	37
+Process	response to oxidative stress	37
+Process	negative regulation of cell growth	35
+Process	ATP biosynthetic process	33
+Process	negative regulation of apoptosis	33
+Process	translational initiation	33
+Process	cell adhesion	32
+Process	cellular component movement	32
+Process	intracellular protein transport	32
+Process	cell death	31
+Process	protein amino acid phosphorylation	31
+Process	response to hypoxia	30
+Process	angiogenesis	30
+Process	protein ubiquitination	30
+Process	protein modification process	29
+Process	transcription initiation from RNA polymerase II promoter	29
+Process	mitochondrial electron transport, NADH to ubiquinone	29
+Process	nucleosome assembly	29
+Process	steroid metabolic process	28
+Process	negative regulation of transcription	28
+Process	muscle organ development	27
+Process	regulation of apoptosis	27
+Process	response to heat	27
+Process	nuclear mRNA splicing, via spliceosome	27
+Process	proteolysis involved in cellular protein catabolic process	27
+Process	protein amino acid glycosylation	26
+Process	protein amino acid dephosphorylation	26
+Process	response to virus	26
+Process	inflammatory response	25
+Process	response to stress	24
+Process	regulation of cell growth	24
+Process	protein polymerization	24
+Process	positive regulation of apoptosis	24
+Process	regulation of protein metabolic process	24
+Process	mitochondrial ATP synthesis coupled proton transport	23
+Process	RNA elongation from RNA polymerase II promoter	23
+Process	response to unfolded protein	23
+Process	actin cytoskeleton organization	22
+Process	cellular amino acid metabolic process	22
+Process	innate immune response	22
+Process	GPI anchor biosynthetic process	22
+Process	positive regulation of I-kappaB kinase/NF-kappaB cascade	21
+Process	heart development	21
+Process	response to hydrogen peroxide	21
+Process	negative regulation of transcription, DNA-dependent	21
+Process	microtubule-based movement	21
+Process	glucose metabolic process	20
+Process	tRNA processing	20
+Process	response to ethanol	19
+Process	cell cycle arrest	19
+Process	nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	19
+Process	skeletal system development	19
+Process	digestion	19
+Process	ATP synthesis coupled proton transport	19
+Process	regulation of translation	19
+Process	autophagy	18
+Process	negative regulation of transcription from RNA polymerase II promoter	18
+Process	cholesterol biosynthetic process	18
+Process	response to wounding	17
+Process	cell growth	17
+Process	cardiac muscle contraction	17
+Process	gluconeogenesis	17
+Process	aging	17
+Process	nucleotide metabolic process	17
+Process	regulation of muscle contraction	17
+Process	base-excision repair	17
+Process	organ morphogenesis	17
+Process	glutathione metabolic process	17
+Process	RNA processing	17
+Process	response to calcium ion	16
+Process	biosynthetic process	16
+Process	positive regulation of ATPase activity	16
+Process	calcium ion transport	16
+Process	epidermis development	16
+Process	protein targeting to mitochondrion	16
+Process	response to DNA damage stimulus	16
+Process	sensory perception of sound	16
+Process	G1/S transition of mitotic cell cycle	16
+Process	lipid catabolic process	16
+Process	cell-cell signaling	16
+Process	cellular membrane organization	16
+Process	cytoskeleton organization	16
+Process	tricarboxylic acid cycle	16
+Process	ventricular cardiac muscle tissue morphogenesis	16
+Process	positive regulation of transcription	16
+Process	regulation of growth	16
+Process	muscle filament sliding	16
+Process	positive regulation of striated muscle cell differentiation	16
+Process	sarcomere organization	15
+Process	purine nucleotide biosynthetic process	15
+Process	heme biosynthetic process	15
+Process	embryonic development	15
+Process	induction of apoptosis by extracellular signals	15
+Process	response to glucose stimulus	15
+Process	regulation of heart contraction	15
+Process	superoxide metabolic process	15
+Process	fatty acid biosynthetic process	15
+Process	histone H3 acetylation	15
+Process	protein K11-linked ubiquitination	15
+Process	one-carbon metabolic process	14
+Process	erythrocyte differentiation	14
+Process	response to peptide hormone stimulus	14
+Process	generation of precursor metabolites and energy	14
+Process	response to toxin	14
+Process	response to estradiol stimulus	14
+Process	skeletal muscle contraction	14
+Process	fatty acid metabolic process	14
+Process	cellular iron ion homeostasis	13
+Process	protein homotetramerization	13
+Process	potassium ion transport	13
+Process	phototransduction	13
+Process	DNA fragmentation involved in apoptosis	13
+Process	regulation of cyclin-dependent protein kinase activity	13
+Process	positive regulation of transcription, DNA-dependent	13
+Process	negative regulation of protein kinase activity	13
+Process	brain development	13
+Process	positive regulation of gene-specific transcription from RNA polymerase II promoter	13
+Process	regulation of angiogenesis	13
+Process	cellular carbohydrate metabolic process	13
+Process	ribosomal small subunit biogenesis	13
+Process	response to organic cyclic substance	12
+Process	hydrogen peroxide catabolic process	12
+Process	response to nutrient	12
+Process	cation transport	12
+Process	protein complex assembly	12
+Process	protein catabolic process	12
+Process	chemotaxis	12
+Process	2-oxoglutarate metabolic process	12
+Process	mRNA export from nucleus	12
+Process	wound healing	12
+Process	mRNA transport	12
+Process	response to cytokine stimulus	11
+Process	response to glucocorticoid stimulus	11
+Process	protein homooligomerization	11
+Process	fructose metabolic process	11
+Process	female pregnancy	11
+Process	protein localization	11
+Process	activation of MAPK activity	11
+Process	Ras protein signal transduction	11
+Process	cell aging	11
+Process	chitin catabolic process	11
+Process	spliceosomal snRNP assembly	11
+Process	post-Golgi vesicle-mediated transport	11
+Process	regulation of blood pressure	11
+Process	superoxide anion generation	11
+Process	nucleotide-excision repair	11
+Process	pyruvate metabolic process	11
+Process	nucleocytoplasmic transport	11
+Process	'de novo' IMP biosynthetic process	10
+Process	actin filament organization	10
+Process	muscle homeostasis	10
+Process	lipid transport	10
+Process	nucleoside metabolic process	10
+Process	response to estrogen stimulus	10
+Process	response to organic substance	10
+Process	chromatin remodeling	10
+Process	regulation of cell cycle	10
+Process	negative regulation of signal transduction	10
+Process	phosphoinositide-mediated signaling	10
+Process	endocytosis	10
+Process	cellular response to reactive oxygen species	10
+Process	neuron differentiation	10
+Process	oxygen transport	10
+Process	negative regulation of transcription factor activity	10
+Process	erythrocyte homeostasis	10
+Process	depurination	10
+Process	transcription	10
+Process	nucleotide-excision repair, DNA gap filling	10
+Process	post-translational protein modification	10
+Process	cell communication	10
+Process	acute-phase response	9
+Process	response to cAMP	9
+Process	response to organic nitrogen	9
+Process	fibrinolysis	9
+Process	ammonium transport	9
+Process	excretion	9
+Process	central nervous system development	9
+Process	response to pH	9
+Process	cellular amino acid biosynthetic process	9
+Process	anion transport	9
+Process	release of cytochrome c from mitochondria	9
+Process	osteoblast differentiation	9
+Process	activation of caspase activity	9
+Process	regulation of protein stability	9
+Process	chloride transport	9
+Process	respiratory gaseous exchange	9
+Process	mitochondrial transport	9
+Process	NADH metabolic process	9
+Process	cellular metabolic process	9
+Process	peptidyl-lysine modification to hypusine	9
+Process	L-fucose catabolic process	9
+Process	hormone-mediated signaling pathway	9
+Process	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	9
+Process	negative regulation of cell cycle	9
+Process	isoprenoid biosynthetic process	9
+Process	protein kinase cascade	9
+Process	anatomical structure morphogenesis	9
+Process	phosphorylation	9
+Process	protein neddylation	9
+Process	RNA splicing, via transesterification reactions	9
+Process	gene silencing by RNA	9
+Process	regulation of actin filament polymerization	9
+Process	histone H4-K16 acetylation	9
+Process	regulation of Rab GTPase activity	9
+Process	response to insulin stimulus	8
+Process	response to zinc ion	8
+Process	liver development	8
+Process	response to antibiotic	8
+Process	cholesterol homeostasis	8
+Process	removal of superoxide radicals	8
+Process	ruffle organization	8
+Process	mitochondrion organization	8
+Process	in utero embryonic development	8
+Process	response to UV	8
+Process	glucose homeostasis	8
+Process	drug metabolic process	8
+Process	platelet activation	8
+Process	androgen receptor signaling pathway	8
+Process	creatine metabolic process	8
+Process	respiratory burst	8
+Process	protein polyubiquitination	8
+Process	regulation of translational initiation	8
+Process	thymus development	8
+Process	regulation of ryanodine-sensitive calcium-release channel activity	8
+Process	cell migration	8
+Process	purine base biosynthetic process	8
+Process	positive regulation of nitric oxide biosynthetic process	8
+Process	isocitrate metabolic process	8
+Process	negative regulation of growth	8
+Process	positive regulation of cell growth	8
+Process	iron-sulfur cluster assembly	8
+Process	positive regulation of cell adhesion	8
+Process	protein targeting	8
+Process	negative regulation of cell migration	8
+Process	regulation of ATPase activity	8
+Process	DNA damage response, signal transduction	8
+Process	phosphoinositide phosphorylation	8
+Process	cellular aldehyde metabolic process	7
+Process	response to redox state	7
+Process	cell surface receptor linked signaling pathway	7
+Process	protein heterooligomerization	7
+Process	response to hormone stimulus	7
+Process	ATP catabolic process	7
+Process	negative regulation of endothelial cell proliferation	7
+Process	oxidative phosphorylation	7
+Process	lens development in camera-type eye	7
+Process	response to gamma radiation	7
+Process	negative regulation of phosphorylation	7
+Process	rRNA transcription	7
+Process	DNA damage response, signal transduction resulting in induction of apoptosis	7
+Process	lung development	7
+Process	protein refolding	7
+Process	hydrogen peroxide biosynthetic process	7
+Process	DNA metabolic process	7
+Process	nucleoside transport	7
+Process	blood coagulation	7
+Process	cellular response to insulin stimulus	7
+Process	double-strand break repair	7
+Process	negative regulation of cell differentiation	7
+Process	iron ion transport	7
+Process	histone deacetylation	7
+Process	nuclear import	7
+Process	defense response	7
+Process	negative regulation of neuron apoptosis	7
+Process	CTP biosynthetic process	7
+Process	GTP biosynthetic process	7
+Process	UTP biosynthetic process	7
+Process	regulation of cell proliferation	7
+Process	vitamin A metabolic process	7
+Process	ribosomal large subunit biogenesis	7
+Process	ribosome biogenesis	7
+Process	exit from mitosis	7
+Process	ribosomal small subunit assembly	7
+Process	DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	7
+Process	positive regulation of heart rate by epinephrine	7
+Process	positive regulation of stress fiber assembly	7
+Process	histone H2A acetylation	7
+Process	autophagic vacuole assembly	7
+Process	intra-Golgi vesicle-mediated transport	7
+Process	ER to Golgi vesicle-mediated transport	7
+Process	histone H4-K12 acetylation	7
+Process	histone H4-K5 acetylation	7
+Process	histone H4-K8 acetylation	7
+Process	response to copper ion	6
+Process	bone resorption	6
+Process	dephosphorylation	6
+Process	ethanol oxidation	6
+Process	response to lipopolysaccharide	6
+Process	AMP biosynthetic process	6
+Process	oxygen homeostasis	6
+Process	fructose 1,6-bisphosphate metabolic process	6
+Process	striated muscle contraction	6
+Process	body fluid secretion	6
+Process	cholesterol metabolic process	6
+Process	water transport	6
+Process	response to retinoic acid	6
+Process	binding of sperm to zona pellucida	6
+Process	sodium ion transport	6
+Process	branched chain family amino acid catabolic process	6
+Process	mitochondrial respiratory chain complex I assembly	6
+Process	protein amino acid methylation	6
+Process	complement activation, classical pathway	6
+Process	blastocyst development	6
+Process	elevation of cytosolic calcium ion concentration	6
+Process	ossification	6
+Process	negative regulation of NF-kappaB transcription factor activity	6
+Process	DNA synthesis during DNA repair	6
+Process	response to amino acid stimulus	6
+Process	retinoic acid metabolic process	6
+Process	hemopoiesis	6
+Process	camera-type eye development	6
+Process	xenobiotic metabolic process	6
+Process	protein export from nucleus	6
+Process	positive regulation of DNA replication	6
+Process	positive regulation of gene-specific transcription	6
+Process	positive regulation of protein ubiquitination	6
+Process	integrin-mediated signaling pathway	6
+Process	protein amino acid N-linked glycosylation	6
+Process	transforming growth factor beta receptor signaling pathway	6
+Process	response to inorganic substance	6
+Process	chromatin organization	6
+Process	negative regulation of gene-specific transcription from RNA polymerase II promoter	6
+Process	positive regulation of proteolysis	6
+Process	spermatid development	6
+Process	BMP signaling pathway	6
+Process	embryo implantation	6
+Process	I-kappaB kinase/NF-kappaB cascade	6
+Process	cellular response to extracellular stimulus	6
+Process	DNA ligation	6
+Process	regulation of catalytic activity	6
+Process	inner ear development	6
+Process	regulation of striated muscle contraction	6
+Process	skeletal muscle tissue development	6
+Process	peroxisome organization	6
+Process	proteasomal ubiquitin-dependent protein catabolic process	6
+Process	response to superoxide	6
+Process	negative regulation of ATPase activity	6
+Process	tryptophanyl-tRNA aminoacylation	6
+Process	histone H4 acetylation	6
+Process	histone acetylation	6
+Process	microtubule-based process	6
+Process	endosome transport	6
+Process	pyridine nucleotide biosynthetic process	6
+Process	ubiquinone biosynthetic process	6
+Process	protein amino acid acetylation	6
+Process	tRNA splicing, via endonucleolytic cleavage and ligation	6
+Process	response to steroid hormone stimulus	5
+Process	heart contraction	5
+Process	retinol metabolic process	5
+Process	hormone metabolic process	5
+Process	regulation of cell shape	5
+Process	response to vitamin D	5
+Process	protein-chromophore linkage	5
+Process	mitochondrial genome maintenance	5
+Process	collagen fibril organization	5
+Process	negative regulation of angiogenesis	5
+Process	response to methylmercury	5
+Process	urea cycle	5
+Process	apoptotic mitochondrial changes	5
+Process	ADP biosynthetic process	5
+Process	ATP hydrolysis coupled proton transport	5
+Process	complement activation, alternative pathway	5
+Process	brown fat cell differentiation	5
+Process	organ development	5
+Process	negative regulation of cyclin-dependent protein kinase activity	5
+Process	regulation of membrane potential	5
+Process	triglyceride metabolic process	5
+Process	positive regulation of peptidyl-tyrosine phosphorylation	5
+Process	positive regulation of fibroblast proliferation	5
+Process	nucleotide-excision repair, DNA damage removal	5
+Process	negative regulation of caspase activity	5
+Process	negative regulation of lipid catabolic process	5
+Process	positive regulation of translation	5
+Process	spindle organization	5
+Process	regulation of defense response to virus by virus	5
+Process	protein stabilization	5
+Process	synaptic transmission	5
+Process	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	5
+Process	myoblast differentiation	5
+Process	DNA catabolic process	5
+Process	pyrimidine nucleotide metabolic process	5
+Process	cellular response to stimulus	5
+Process	negative regulation of translational initiation in response to stress	5
+Process	oligodendrocyte development	5
+Process	positive regulation of translational elongation	5
+Process	positive regulation of translational termination	5
+Process	translational frameshifting	5
+Process	DNA recombination	5
+Process	positive regulation of protein kinase B signaling cascade	5
+Process	positive regulation of epithelial cell proliferation	5
+Process	positive regulation of cell division	5
+Process	protein maturation by protein folding	5
+Process	T cell proliferation	5
+Process	negative regulation of Wnt receptor signaling pathway	5
+Process	oligosaccharide biosynthetic process	5
+Process	nitrogen compound metabolic process	5
+Process	phototransduction, visible light	5
+Process	fat cell differentiation	5
+Process	iron ion homeostasis	5
+Process	positive regulation of smooth muscle cell proliferation	5
+Process	RNA catabolic process	5
+Process	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	5
+Process	defense response to bacterium	5
+Process	single fertilization	5
+Process	regulation of protein amino acid phosphorylation	5
+Process	positive regulation of T cell proliferation	5
+Process	response to activity	5
+Process	natural killer cell mediated cytotoxicity	5
+Process	regulation of cell migration	5
+Process	regulation of proteolysis	5
+Process	meiosis	5
+Process	neuron development	5
+Process	protein processing	5
+Process	somitogenesis	5
+Process	sterol biosynthetic process	5
+Process	aerobic respiration	5
+Process	neuropeptide signaling pathway	5
+Process	spliceosome assembly	5
+Process	negative regulation of fibroblast proliferation	5
+Process	protein targeting to ER	5
+Process	intracellular mRNA localization	5
+Process	amine metabolic process	5
+Process	catecholamine metabolic process	5
+Process	RNA elongation	5
+Process	negative regulation of lipopolysaccharide-mediated signaling pathway	5
+Process	vasculogenesis	5
+Process	pentose-phosphate shunt	5
+Process	ER-associated protein catabolic process	5
+Process	cytokine-mediated signaling pathway	5
+Process	cellular amino acid catabolic process	5
+Process	free ubiquitin chain polymerization	5
+Process	retrograde vesicle-mediated transport, Golgi to ER	5
+Process	chromatin assembly or disassembly	5
+Process	protein lipoylation	5
+Process	glycerol metabolic process	5
+Process	single strand break repair	5
+Process	trophectodermal cell differentiation	5
+Process	induction of apoptosis by intracellular signals	5
+Process	synapse assembly	4
+Process	bone morphogenesis	4
+Process	ATP metabolic process	4
+Process	response to hyperoxia	4
+Process	response to progesterone stimulus	4
+Process	organ regeneration	4
+Process	biomineral formation	4
+Process	positive regulation of vesicle fusion	4
+Process	regulation of DNA binding	4
+Process	reverse cholesterol transport	4
+Process	grooming behavior	4
+Process	carbon dioxide transport	4
+Process	ceramide metabolic process	4
+Process	arginine biosynthetic process via ornithine	4
+Process	arginine catabolic process	4
+Process	response to endoplasmic reticulum stress	4
+Process	apoptosis in response to endoplasmic reticulum stress	4
+Process	regulation of the force of heart contraction	4
+Process	receptor-mediated endocytosis	4
+Process	endoplasmic reticulum membrane fusion	4
+Process	endoplasmic reticulum organization	4
+Process	neuron apoptosis	4
+Process	oxygen and reactive oxygen species metabolic process	4
+Process	complement activation	4
+Process	cytolysis	4
+Process	kidney development	4
+Process	induction of apoptosis by oxidative stress	4
+Process	membrane raft organization	4
+Process	cell maturation	4
+Process	positive regulation of osteoblast differentiation	4
+Process	protein destabilization	4
+Process	senescence	4
+Process	cysteine metabolic process	4
+Process	cytokinesis	4
+Process	female gamete generation	4
+Process	temperature homeostasis	4
+Process	positive regulation of cell differentiation	4
+Process	lysosomal lumen acidification	4
+Process	blood circulation	4
+Process	embryonic forelimb morphogenesis	4
+Process	adrenal gland development	4
+Process	learning or memory	4
+Process	eye development	4
+Process	L-cystine transport	4
+Process	drug catabolic process	4
+Process	protein amino acid N-linked glycosylation via asparagine	4
+Process	fatty acid beta-oxidation	4
+Process	prostaglandin metabolic process	4
+Process	T cell activation	4
+Process	endothelial cell migration	4
+Process	cell-matrix adhesion	4
+Process	pyrimidine nucleoside metabolic process	4
+Process	ectoderm development	4
+Process	blood coagulation, extrinsic pathway	4
+Process	positive regulation of cell migration	4
+Process	phosphatidylcholine biosynthetic process	4
+Process	determination of left/right symmetry	4
+Process	positive regulation of MAPKKK cascade	4
+Process	response to protein stimulus	4
+Process	tissue regeneration	4
+Process	'de novo' protein folding	4
+Process	heart morphogenesis	4
+Process	negative regulation of protein phosphatase type 2B activity	4
+Process	regulation of immune response	4
+Process	N-glycan processing	4
+Process	protein amino acid glycosylation in Golgi	4
+Process	receptor metabolic process	4
+Process	carbohydrate transport	4
+Process	glucose-6-phosphate transport	4
+Process	detection of light stimulus involved in visual perception	4
+Process	aspartate catabolic process	4
+Process	oxaloacetate metabolic process	4
+Process	phospholipid metabolic process	4
+Process	protein import into nucleus	4
+Process	protein amino acid deacetylation	4
+Process	antigen processing and presentation	4
+Process	RNA export from nucleus	4
+Process	aromatic amino acid family metabolic process	4
+Process	regulation of DNA replication	4
+Process	positive regulation of glycolysis	4
+Process	mitotic spindle organization	4
+Process	NAD metabolic process	4
+Process	male gonad development	4
+Process	mitotic cell cycle spindle assembly checkpoint	4
+Process	malate metabolic process	4
+Process	tRNA modification	4
+Process	DNA dealkylation	4
+Process	positive regulation of DNA binding	4
+Process	peptidyl-histidine phosphorylation	4
+Process	preassembly of GPI anchor in ER membrane	4
+Process	programmed cell death	4
+Process	aromatic compound catabolic process	4
+Process	phosphate metabolic process	4
+Process	microtubule cytoskeleton organization	4
+Process	activation of pro-apoptotic gene products	4
+Process	protein depalmitoylation	4
+Process	learning	4
+Process	forebrain development	4
+Process	hair follicle development	4
+Process	positive regulation of catalytic activity	4
+Process	intracellular transport	4
+Process	retina development in camera-type eye	4
+Process	respiratory chain complex IV assembly	4
+Process	steroid biosynthetic process	4
+Process	respiratory electron transport chain	4
+Process	locomotory behavior	4
+Process	ovarian follicle development	4
+Process	regulation of mitochondrial membrane potential	4
+Process	response to axon injury	4
+Process	response to nutrient levels	4
+Process	retina homeostasis	4
+Process	SRP-dependent cotranslational protein targeting to membrane	4
+Process	cotranslational protein targeting to membrane	4
+Process	positive regulation of response to cytokine stimulus	4
+Process	response to interleukin-1	4
+Process	glyceraldehyde-3-phosphate metabolic process	4
+Process	atrial cardiac muscle tissue morphogenesis	4
+Process	neuron migration	4
+Process	postreplication repair	4
+Process	positive regulation of transcription from RNA polymerase II promoter by glucose	4
+Process	initiation of viral infection	4
+Process	JAK-STAT cascade	4
+Process	catabolic process	4
+Process	regulation of mitotic cell cycle	4
+Process	myelination	4
+Process	intronless viral mRNA export from host nucleus	4
+Process	S-adenosylhomocysteine metabolic process	4
+Process	S-adenosylmethionine metabolic process	4
+Process	phospholipid biosynthetic process	4
+Process	ear morphogenesis	4
+Process	cyclin catabolic process	4
+Process	positive regulation of exit from mitosis	4
+Process	hydrogen peroxide metabolic process	4
+Process	COPI coating of Golgi vesicle	4
+Process	methylation	4
+Process	rRNA methylation	4
+Process	positive regulation of G-protein coupled receptor protein signaling pathway	4
+Process	pseudouridine synthesis	4
+Process	mesoderm formation	4
+Process	regulation of oxidoreductase activity	4
+Process	primary microRNA processing	4
+Process	response to arsenic	4
+Process	DNA damage response, detection of DNA damage	4
+Process	histone H2A K63-linked deubiquitination	4
+Process	phosphatidylinositol metabolic process	4
+Process	negative regulation of hydrolase activity	4
+Process	vitelline membrane formation	4
+Process	regulation of lipid metabolic process	3
+Process	response to corticosterone stimulus	3
+Process	positive regulation of protein secretion	3
+Process	response to mechanical stimulus	3
+Process	skeletal muscle thin filament assembly	3
+Process	lipid storage	3
+Process	long-chain fatty acid transport	3
+Process	alcohol metabolic process	3
+Process	retinoid metabolic process	3
+Process	immune system process	3
+Process	glyoxylate metabolic process	3
+Process	actin filament bundle assembly	3
+Process	hemoglobin biosynthetic process	3
+Process	porphyrin metabolic process	3
+Process	tetrapyrrole biosynthetic process	3
+Process	cellular response to hormone stimulus	3
+Process	response to nicotine	3
+Process	response to testosterone stimulus	3
+Process	response to chemical stimulus	3
+Process	heme catabolic process	3
+Process	leukocyte cell-cell adhesion	3
+Process	lipid homeostasis	3
+Process	phosphatidylcholine metabolic process	3
+Process	regulation of cholesterol transport	3
+Process	purine ribonucleoside salvage	3
+Process	epidermal growth factor receptor signaling pathway	3
+Process	positive regulation of actin filament polymerization	3
+Process	tubulin complex assembly	3
+Process	cellular calcium ion homeostasis	3
+Process	antigen processing and presentation of peptide antigen via MHC class I	3
+Process	positive regulation of phagocytosis	3
+Process	positive regulation vascular endothelial growth factor production	3
+Process	odontogenesis of dentine-containing tooth	3
+Process	regulation of fatty acid oxidation	3
+Process	actin filament capping	3
+Process	B cell homeostasis	3
+Process	T cell homeostasis	3
+Process	keratinocyte differentiation	3
+Process	negative regulation of B cell proliferation	3
+Process	negative regulation of MAPKKK cascade	3
+Process	chondrocyte development	3
+Process	endochondral ossification	3
+Process	negative regulation of smoothened signaling pathway	3
+Process	osteoblast fate commitment	3
+Process	positive regulation of chondrocyte differentiation	3
+Process	positive regulation of ossification	3
+Process	regulation of fibroblast growth factor receptor signaling pathway	3
+Process	regulation of odontogenesis of dentine-containing tooth	3
+Process	cellular amino acid derivative metabolic process	3
+Process	kynurenine metabolic process	3
+Process	positive regulation of immunoglobulin production	3
+Process	protein localization to kinetochore	3
+Process	establishment or maintenance of cell polarity	3
+Process	macrophage differentiation	3
+Process	negative regulation of protein complex assembly	3
+Process	positive regulation of pseudopodium assembly	3
+Process	regulation of gene expression	3
+Process	lactation	3
+Process	cholesterol catabolic process	3
+Process	positive regulation of actin filament depolymerization	3
+Process	androgen metabolic process	3
+Process	polysaccharide catabolic process	3
+Process	neuromuscular process	3
+Process	negative regulation of cytokine secretion	3
+Process	negative regulation of transforming growth factor beta receptor signaling pathway	3
+Process	positive regulation of sequestering of triglyceride	3
+Process	mRNA stabilization	3
+Process	insulin receptor signaling pathway	3
+Process	regulation of pH	3
+Process	feeding behavior	3
+Process	stress-activated MAPK cascade	3
+Process	thyroid hormone metabolic process	3
+Process	Wnt receptor signaling pathway	3
+Process	alkaloid catabolic process	3
+Process	heterocycle metabolic process	3
+Process	monoterpenoid metabolic process	3
+Process	oxidative demethylation	3
+Process	aspartyl-tRNA aminoacylation	3
+Process	response to organophosphorus	3
+Process	Notch signaling pathway	3
+Process	T cell costimulation	3
+Process	pyrimidine base metabolic process	3
+Process	regulation of axonogenesis	3
+Process	skeletal muscle tissue regeneration	3
+Process	positive regulation of collagen biosynthetic process	3
+Process	fructose 6-phosphate metabolic process	3
+Process	embryonic gut development	3
+Process	lung alveolus development	3
+Process	pancreas development	3
+Process	positive regulation of DNA repair	3
+Process	fibril organization	3
+Process	heart trabecula formation	3
+Process	smooth muscle contraction	3
+Process	fucose metabolic process	3
+Process	glutamine biosynthetic process	3
+Process	eye photoreceptor cell development	3
+Process	response to light stimulus	3
+Process	sensory perception of umami taste	3
+Process	hemostasis	3
+Process	humoral immune response	3
+Process	inactivation of MAPK activity	3
+Process	blood vessel endothelial cell migration	3
+Process	regulation of inflammatory response	3
+Process	positive regulation of transcription factor activity	3
+Process	transcription from RNA polymerase III promoter	3
+Process	glycogen biosynthetic process	3
+Process	erythrocyte maturation	3
+Process	L-phenylalanine catabolic process	3
+Process	acyl-CoA metabolic process	3
+Process	positive regulation of vasodilation	3
+Process	chaperone mediated protein folding requiring cofactor	3
+Process	mitochondrial outer membrane translocase complex assembly	3
+Process	epithelial cell differentiation	3
+Process	hippocampus development	3
+Process	positive regulation of mitosis	3
+Process	negative regulation of proteolysis	3
+Process	positive regulation of NF-kappaB transcription factor activity	3
+Process	microtubule depolymerization	3
+Process	T cell activation during immune response	3
+Process	negative regulation of protein binding	3
+Process	cell wall macromolecule catabolic process	3
+Process	positive regulation of B cell proliferation	3
+Process	adult locomotory behavior	3
+Process	memory	3
+Process	regulation of neuron differentiation	3
+Process	protein oligomerization	3
+Process	negative regulation of protein amino acid phosphorylation	3
+Process	regulation of NF-kappaB import into nucleus	3
+Process	regulation of stress-activated MAPK cascade	3
+Process	response to reactive oxygen species	3
+Process	regulation of glycolysis	3
+Process	negative regulation of fibrinolysis	3
+Process	phospholipid scrambling	3
+Process	glycogen metabolic process	3
+Process	glycosphingolipid metabolic process	3
+Process	Notch receptor processing	3
+Process	amyloid precursor protein catabolic process	3
+Process	membrane protein ectodomain proteolysis	3
+Process	membrane protein intracellular domain proteolysis	3
+Process	regulation of synaptic plasticity	3
+Process	regulation of hydrogen peroxide metabolic process	3
+Process	N-acetylglucosamine metabolic process	3
+Process	maturation of SSU-rRNA	3
+Process	pattern specification process	3
+Process	age-dependent response to oxidative stress	3
+Process	age-dependent response to reactive oxygen species	3
+Process	detection of oxygen	3
+Process	erythrophore differentiation	3
+Process	negative regulation of fat cell differentiation	3
+Process	organ senescence	3
+Process	post-embryonic development	3
+Process	vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure	3
+Process	C21-steroid hormone metabolic process	3
+Process	transcription initiation	3
+Process	miRNA loading onto RISC involved in gene silencing by miRNA	3
+Process	negative regulation of defense response to virus by host	3
+Process	positive regulation of viral genome replication	3
+Process	pre-microRNA processing	3
+Process	production of siRNA involved in RNA interference	3
+Process	regulation of viral transcription	3
+Process	targeting of mRNA for destruction involved in RNA interference	3
+Process	response to metal ion	3
+Process	negative regulation of muscle contraction	3
+Process	slow-twitch skeletal muscle fiber contraction	3
+Process	DNA packaging	3
+Process	internal protein amino acid acetylation	3
+Process	cellular membrane fusion	3
+Process	protein amino acid O-linked mannosylation	3
+Process	protein amino acid mannosylation	3
+Process	regulation of signal transduction	3
+Process	spindle assembly	3
+Process	anterior/posterior pattern formation	3
+Process	chaperone-mediated autophagy	3
+Process	regulation of I-kappaB kinase/NF-kappaB cascade	3
+Process	S-M checkpoint	3
+Process	leukocyte migration	3
+Process	tRNA aminoacylation for protein translation	3
+Process	L-ascorbic acid biosynthetic process	3
+Process	protein secretion	3
+Process	signal peptide processing	3
+Process	actin filament polymerization	3
+Process	actin nucleation	3
+Process	protein K63-linked deubiquitination	3
+Process	protein metabolic process	3
+Process	glycerophospholipid metabolic process	3
+Process	positive regulation of lipoprotein metabolic process	3
+Process	response to vitamin	3
+Process	phospholipid transport	3
+Process	tetrahydrofolate metabolic process	3
+Process	histidine metabolic process	3
+Process	proteasome assembly	3
+Process	proteoglycan metabolic process	3
+Process	regulation of respiratory gaseous exchange by neurological system process	3
+Process	regulation of synaptic transmission	3
+Process	leukotriene metabolic process	3
+Process	protein amino acid O-linked glycosylation	3
+Process	protein farnesylation	3
+Process	regulation of cGMP metabolic process	3
+Process	glycolipid biosynthetic process	3
+Process	protein import into mitochondrial inner membrane	3
+Process	NADP metabolic process	3
+Process	fatty acid oxidation	3
+Process	antigen receptor-mediated signaling pathway	3
+Process	transepithelial ammonium transport	3
+Process	lysosome organization	3
+Process	vacuolar acidification	3
+Process	peptidyl-diphthamide biosynthetic process from peptidyl-histidine	3
+Process	negative regulation of mitosis	3
+Process	chromosome segregation	3
+Process	negative regulation of chemokine biosynthetic process	3
+Process	negative regulation of cytokine-mediated signaling pathway	3
+Process	activation of JUN kinase activity	3
+Process	lipid biosynthetic process	3
+Process	maintenance of gastrointestinal epithelium	2
+Process	melatonin biosynthetic process	2
+Process	acetylcholine catabolic process	2
+Process	acetylcholine catabolic process in synaptic cleft	2
+Process	amyloid precursor protein metabolic process	2
+Process	negative regulation of synaptic transmission, cholinergic	2
+Process	osteoblast development	2
+Process	myofibril assembly	2
+Process	response to extracellular stimulus	2
+Process	axonogenesis	2
+Process	actin filament-based movement	2
+Process	cardiac muscle tissue morphogenesis	2
+Process	cardiac myofibril assembly	2
+Process	protein tetramerization	2
+Process	purine ribonucleotide biosynthetic process	2
+Process	protein maturation	2
+Process	neurotransmitter biosynthetic process	2
+Process	NADH oxidation	2
+Process	response to starvation	2
+Process	protein heterotetramerization	2
+Process	leukotriene biosynthetic process	2
+Process	protein homotrimerization	2
+Process	negative regulation of JNK cascade	2
+Process	negative regulation of immune response	2
+Process	purine ribonucleoside monophosphate biosynthetic process	2
+Process	placenta development	2
+Process	cholesterol efflux	2
+Process	high-density lipoprotein particle remodeling	2
+Process	multicellular organismal lipid catabolic process	2
+Process	negative regulation of plasma lipoprotein oxidation	2
+Process	response to lipid hydroperoxide	2
+Process	very-low-density lipoprotein particle remodeling	2
+Process	canalicular bile acid transport	2
+Process	adenine salvage	2
+Process	cellular response to copper ion	2
+Process	cellular response to mercury ion	2
+Process	cellular response to stress	2
+Process	glycerol transport	2
+Process	renal water transport	2
+Process	regulation of keratinocyte differentiation	2
+Process	amine transport	2
+Process	pyrimidine transport	2
+Process	response to mercury ion	2
+Process	response to osmotic stress	2
+Process	water homeostasis	2
+Process	Rho protein signal transduction	2
+Process	calcium ion import	2
+Process	elevation of endoplasmic reticulum calcium ion concentration	2
+Process	elevation of mitochondrial calcium ion concentration	2
+Process	maintenance of mitochondrion location	2
+Process	positive regulation of fast-twitch skeletal muscle fiber contraction	2
+Process	reduction of endoplasmic reticulum calcium ion concentration	2
+Process	mitochondrial respiratory chain complex III assembly	2
+Process	mitochondrial respiratory chain complex IV assembly	2
+Process	methionine biosynthetic process	2
+Process	regulation of nitrogen utilization	2
+Process	defense response to virus	2
+Process	regulation of mitochondrial membrane permeability	2
+Process	morphogenesis of an epithelium	2
+Process	myoblast fusion	2
+Process	cell fate commitment	2
+Process	induction of apoptosis via death domain receptors	2
+Process	negative regulation of activated T cell proliferation	2
+Process	acute inflammatory response to non-antigenic stimulus	2
+Process	positive regulation of neuron apoptosis	2
+Process	positive regulation of retinal cell programmed cell death	2
+Process	response to iron ion	2
+Process	T-tubule organization	2
+Process	negative regulation of MAP kinase activity	2
+Process	negative regulation of cardiac muscle hypertrophy	2
+Process	negative regulation of cell size	2
+Process	negative regulation of nitric-oxide synthase activity	2
+Process	negative regulation of sarcomere organization	2
+Process	positive regulation of microtubule polymerization	2
+Process	regulation of calcium ion transport via voltage-gated calcium channel activity	2
+Process	regulation of cardiac muscle contraction	2
+Process	regulation of skeletal muscle contraction	2
+Process	regulation of ventricular cardiomyocyte membrane repolarization	2
+Process	fusion of sperm to egg plasma membrane	2
+Process	regulation of humoral immune response	2
+Process	positive regulation of endocytosis	2
+Process	cell cycle checkpoint	2
+Process	negative regulation of cell-matrix adhesion	2
+Process	negative regulation of immature T cell proliferation in the thymus	2
+Process	negative regulation of ubiquitin-protein ligase activity	2
+Process	regulation of G2/M transition of mitotic cell cycle	2
+Process	regulation of nucleocytoplasmic transport	2
+Process	somatic stem cell division	2
+Process	autophagic cell death	2
+Process	response to glucagon stimulus	2
+Process	intestinal cholesterol absorption	2
+Process	pancreatic juice secretion	2
+Process	cellular response to heat	2
+Process	bile acid and bile salt transport	2
+Process	response to bacterium	2
+Process	musculoskeletal movement	2
+Process	neuromuscular junction development	2
+Process	neuromuscular synaptic transmission	2
+Process	neuron homeostasis	2
+Process	regulation of action potential in neuron	2
+Process	skeletal muscle tissue growth	2
+Process	negative regulation of tumor necrosis factor production	2
+Process	response to cold	2
+Process	clathrin coat assembly	2
+Process	regulation of endocytosis	2
+Process	endosomal lumen acidification	2
+Process	endocrine pancreas development	2
+Process	negative regulation of protein homooligomerization	2
+Process	neuron projection morphogenesis	2
+Process	response to misfolded protein	2
+Process	neuron maturation	2
+Process	ciliary neurotrophic factor-mediated signaling pathway	2
+Process	calcium-independent cell-cell adhesion	2
+Process	glucocorticoid biosynthetic process	2
+Process	induction of apoptosis by hormones	2
+Process	neuroprotection	2
+Process	M phase specific microtubule process	2
+Process	lens fiber cell morphogenesis	2
+Process	negative regulation of intracellular transport	2
+Process	thyroid hormone transport	2
+Process	dicarboxylic acid transport	2
+Process	mRNA cleavage	2
+Process	cysteine biosynthetic process	2
+Process	hydrogen sulfide biosynthetic process	2
+Process	protein-pyridoxal-5-phosphate linkage via peptidyl-N6-pyridoxal phosphate-L-lysine	2
+Process	cognition	2
+Process	exogenous drug catabolic process	2
+Process	steroid catabolic process	2
+Process	protein autoubiquitination	2
+Process	acetyl-CoA biosynthetic process from pyruvate	2
+Process	negative regulation of extracellular matrix disassembly	2
+Process	dTDP biosynthetic process	2
+Process	nucleotide biosynthetic process	2
+Process	dUTP metabolic process	2
+Process	ephrin receptor signaling pathway	2
+Process	positive regulation of leukocyte chemotaxis	2
+Process	positive regulation of platelet-derived growth factor receptor signaling pathway	2
+Process	positive regulation of positive chemotaxis	2
+Process	intestinal absorption	2
+Process	UV protection	2
+Process	branching morphogenesis of a tube	2
+Process	induction of an organ	2
+Process	inner ear morphogenesis	2
+Process	negative regulation of cell cycle arrest	2
+Process	positive regulation of ERK1 and ERK2 cascade	2
+Process	positive regulation of Ras protein signal transduction	2
+Process	SMAD protein complex assembly	2
+Process	beta-amyloid formation	2
+Process	positive regulation of protein binding	2
+Process	regulation of activin receptor signaling pathway	2
+Process	insulin secretion	2
+Process	negative regulation of heart rate	2
+Process	neuronal action potential propagation	2
+Process	regulation of calcium ion transport via store-operated calcium channel activity	2
+Process	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	2
+Process	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	2
+Process	creatine biosynthetic process	2
+Process	melanosome organization	2
+Process	glycine catabolic process	2
+Process	'de novo' GDP-L-fucose biosynthetic process	2
+Process	negative regulation of cyclic-nucleotide phosphodiesterase activity	2
+Process	retinal cone cell development	2
+Process	aspartate biosynthetic process	2
+Process	aspartate metabolic process	2
+Process	fatty acid homeostasis	2
+Process	glutamate catabolic process to 2-oxoglutarate	2
+Process	glutamate catabolic process to aspartate	2
+Process	glutamate metabolic process	2
+Process	glycerol-3-phosphate catabolic process	2
+Process	JNK cascade	2
+Process	myoblast proliferation	2
+Process	general transcription from RNA polymerase II promoter	2
+Process	Leydig cell differentiation	2
+Process	negative regulation of myotube differentiation	2
+Process	positive regulation of receptor biosynthetic process	2
+Process	tyrosine catabolic process	2
+Process	ketone body biosynthetic process	2
+Process	positive regulation of anti-apoptosis	2
+Process	nuclear export	2
+Process	RNA transport	2
+Process	epithelial to mesenchymal transition	2
+Process	response to food	2
+Process	sperm motility	2
+Process	telomere maintenance	2
+Process	male meiosis	2
+Process	cellular chaperone-mediated protein complex assembly	2
+Process	blood vessel morphogenesis	2
+Process	negative regulation of transcription by transcription factor localization	2
+Process	glyoxylate cycle	2
+Process	carotenoid biosynthetic process	2
+Process	positive regulation of phosphoinositide 3-kinase cascade	2
+Process	regulation of multicellular organism growth	2
+Process	glucose transport	2
+Process	negative regulation of protein catabolic process	2
+Process	positive regulation of cytokine secretion	2
+Process	positive regulation of glycogen biosynthetic process	2
+Process	regulation of protein secretion	2
+Process	negative regulation of translational initiation	2
+Process	hyaluronan metabolic process	2
+Process	leucine catabolic process	2
+Process	lysyl-tRNA aminoacylation	2
+Process	response to fructose stimulus	2
+Process	response to sucrose stimulus	2
+Process	NLS-bearing substrate import into nucleus	2
+Process	Golgi to plasma membrane CFTR protein transport	2
+Process	cell-cell junction assembly	2
+Process	triglyceride homeostasis	2
+Process	cilium assembly	2
+Process	phagocytosis, engulfment	2
+Process	phagocytosis, recognition	2
+Process	oligosaccharide metabolic process	2
+Process	carboxylic acid metabolic process	2
+Process	prostaglandin biosynthetic process	2
+Process	valine metabolic process	2
+Process	adult heart development	2
+Process	homeostatic process	2
+Process	activation of MAPKK activity	2
+Process	activation of MAPKKK activity	2
+Process	cardiac muscle tissue development	2
+Process	neuron projection development	2
+Process	peripheral nervous system development	2
+Process	regulation of neurotransmitter secretion	2
+Process	response to electrical stimulus	2
+Process	response to radiation	2
+Process	sensory perception of pain	2
+Process	transmembrane receptor protein tyrosine kinase signaling pathway	2
+Process	negative regulation of myeloid leukocyte differentiation	2
+Process	nucleoside diphosphate phosphorylation	2
+Process	activation of phospholipase C activity by G-protein coupled receptor protein signaling pathway coupled to IP3 second messenger	2
+Process	eating behavior	2
+Process	protein repair	2
+Process	base-excision repair, gap-filling	2
+Process	mismatch repair	2
+Process	gene silencing	2
+Process	mitotic chromosome condensation	2
+Process	negative regulation of S phase of mitotic cell cycle	2
+Process	negative regulation of transcription by glucose	2
+Process	protein import into peroxisome matrix	2
+Process	neural tube closure	2
+Process	regulation of actin polymerization or depolymerization	2
+Process	carboxylic acid catabolic process	2
+Process	response to external stimulus	2
+Process	porphyrin biosynthetic process	2
+Process	negative regulation of tyrosine phosphorylation of Stat3 protein	2
+Process	negative regulation of Ras protein signal transduction	2
+Process	cofactor metabolic process	2
+Process	cofactor transport	2
+Process	pinocytosis	2
+Process	positive regulation of pinocytosis	2
+Process	positive regulation of receptor-mediated endocytosis	2
+Process	regulation of synapse structure and activity	2
+Process	sphingolipid catabolic process	2
+Process	positive regulation of protein kinase activity	2
+Process	activation of protein kinase A activity	2
+Process	negative regulation of multicellular organism growth	2
+Process	collagen catabolic process	2
+Process	zymogen activation	2
+Process	T cell receptor signaling pathway	2
+Process	anagen	2
+Process	beta-amyloid metabolic process	2
+Process	brain morphogenesis	2
+Process	cell fate specification	2
+Process	cellular protein metabolic process	2
+Process	dorsal/ventral neural tube patterning	2
+Process	embryonic limb morphogenesis	2
+Process	hemopoietic progenitor cell differentiation	2
+Process	locomotion	2
+Process	myeloid leukocyte differentiation	2
+Process	positive regulation of coagulation	2
+Process	regulation of epidermal growth factor receptor activity	2
+Process	bone mineralization	2
+Process	tetrahydrobiopterin biosynthetic process	2
+Process	retinal metabolic process	2
+Process	regulation of calcium ion transport	2
+Process	DNA strand elongation during DNA replication	2
+Process	cellular ion homeostasis	2
+Process	transcription from mitochondrial promoter	2
+Process	regulation of translational fidelity	2
+Process	negative regulation of RNA splicing	2
+Process	positive regulation of cell cycle	2
+Process	seryl-tRNA aminoacylation	2
+Process	cellular copper ion homeostasis	2
+Process	copper ion transport	2
+Process	succinate metabolic process	2
+Process	peptide hormone processing	2
+Process	regulation of hormone secretion	2
+Process	DNA integration	2
+Process	retroviral genome replication	2
+Process	response to interferon-gamma	2
+Process	response to type I interferon	2
+Process	SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition	2
+Process	SRP-dependent cotranslational protein targeting to membrane, translocation	2
+Process	pentose-phosphate shunt, non-oxidative branch	2
+Process	homeostasis of number of cells	2
+Process	negative regulation of T cell differentiation	2
+Process	negative regulation of oxygen and reactive oxygen species metabolic process	2
+Process	respiratory burst involved in acute inflammatory response	2
+Process	positive regulation of interleukin-6 biosynthetic process	2
+Process	sequestering of actin monomers	2
+Process	serotonin biosynthetic process	2
+Process	non-lytic virus budding	2
+Process	protein monoubiquitination	2
+Process	axon guidance	2
+Process	regulation of DNA repair	2
+Process	protein deubiquitination	2
+Process	somatic hypermutation of immunoglobulin genes	2
+Process	somatic recombination of immunoglobulin gene segments	2
+Process	nucleotide catabolic process	2
+Process	uridine metabolic process	2
+Process	mitochondrial electron transport, ubiquinol to cytochrome c	2
+Process	late viral mRNA transcription	2
+Process	regulation of gene-specific transcription from RNA polymerase II promoter	2
+Process	regulation of transcription by carbon catabolites	2
+Process	regulation of transcription from RNA polymerase II promoter by glucose	2
+Process	adenine transport	2
+Process	amino acid transport	2
+Process	cerebral cortex development	2
+Process	negative regulation of protein amino acid dephosphorylation	2
+Process	regulation of chemotaxis	2
+Process	nuclear mRNA 3'-splice site recognition	2
+Process	chromatin silencing at telomere	2
+Process	insemination	2
+Process	negative regulation of JAK-STAT cascade	2
+Process	negative regulation of insulin receptor signaling pathway	2
+Process	cellular defense response	2
+Process	endothelial cell differentiation	2
+Process	regulation of G-protein coupled receptor protein signaling pathway	2
+Process	peroxisome fission	2
+Process	succinyl-CoA metabolic process	2
+Process	provirus integration	2
+Process	9-cis-retinoic acid biosynthetic process	2
+Process	determination of bilateral symmetry	2
+Process	hindbrain development	2
+Process	midgut development	2
+Process	morphogenesis of embryonic epithelium	2
+Process	neural crest cell development	2
+Process	neural tube development	2
+Process	pituitary gland development	2
+Process	proximal/distal pattern formation	2
+Process	response to vitamin A	2
+Process	retinoic acid receptor signaling pathway	2
+Process	depyrimidination	2
+Process	gastrulation with mouth forming second	2
+Process	endomitotic cell cycle	2
+Process	T cell differentiation in the thymus	2
+Process	activation-induced cell death of T cells	2
+Process	mitochondrial DNA replication	2
+Process	apoptotic chromosome condensation	2
+Process	growth	2
+Process	purine nucleoside transport	2
+Process	ISG15-protein conjugation	2
+Process	modification-dependent protein catabolic process	2
+Process	5S class rRNA transcription	2
+Process	tRNA transcription from RNA polymerase III promoter	2
+Process	transcription, DNA-dependent	2
+Process	acrosome assembly	2
+Process	intracellular cholesterol transport	2
+Process	negative regulation of T-helper 2 cell differentiation	2
+Process	positive regulation of T-helper 1 cell differentiation	2
+Process	positive regulation of oxidoreductase activity	2
+Process	positive regulation of rhodopsin gene expression	2
+Process	intermediate filament organization	2
+Process	nucleoside triphosphate biosynthetic process	2
+Process	cellular response to oxidative stress	2
+Process	myeloid dendritic cell differentiation	2
+Process	retinal bipolar neuron differentiation	2
+Process	enucleate erythrocyte development	2
+Process	negative regulation of myeloid cell apoptosis	2
+Process	D-glucuronate catabolic process	2
+Process	aldehyde catabolic process	2
+Process	mast cell activation	2
+Process	assembly of spliceosomal tri-snRNP	2
+Process	B cell costimulation	2
+Process	immunoglobulin secretion	2
+Process	positive regulation of germinal center formation	2
+Process	positive regulation of survival gene product expression	2
+Process	folic acid and derivative biosynthetic process	2
+Process	folic acid and derivative metabolic process	2
+Process	N-terminal protein amino acid modification	2
+Process	cellular process	2
+Process	peptidyl-methionine modification	2
+Process	actin filament severing	2
+Process	actin polymerization or depolymerization	2
+Process	cartilage development	2
+Process	negative regulation of vascular endothelial growth factor receptor signaling pathway	2
+Process	glycosaminoglycan biosynthetic process	2
+Process	dopamine uptake	2
+Process	membrane depolarization	2
+Process	membrane hyperpolarization	2
+Process	regulation of androgen receptor signaling pathway	2
+Process	chromatin silencing	2
+Process	protein amino acid ADP-ribosylation	2
+Process	nitrogen fixation	2
+Process	O-glycan processing	2
+Process	cardiac muscle cell differentiation	2
+Process	sulfur metabolic process	2
+Process	homophilic cell adhesion	2
+Process	positive regulation of long-term neuronal synaptic plasticity	2
+Process	FADH2 metabolic process	2
+Process	intracellular pH elevation	2
+Process	positive regulation of integrin biosynthetic process	2
+Process	cell wall chitin metabolic process	2
+Process	chitin metabolic process	2
+Process	positive regulation of chemokine secretion	2
+Process	production of molecular mediator involved in acute inflammatory response	2
+Process	response to acid	2
+Process	response to fungus	2
+Process	negative regulation of JUN kinase activity	2
+Process	histone mRNA catabolic process	2
+Process	viral genome replication	2
+Process	fertilization	2
+Process	regulation of Rho protein signal transduction	2
+Process	DNA protection	2
+Process	protein thiol-disulfide exchange	2
+Process	response to temperature stimulus	2
+Process	mitochondrial fission	2
+Process	heart looping	2
+Process	negative regulation of protein ubiquitination	2
+Process	C-terminal protein amino acid methylation	2
+Process	Golgi organization	2
+Process	endosome to lysosome transport	2
+Process	skeletal system morphogenesis	2
+Process	protein amino acid C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan	2
+Process	selenocysteine incorporation	2
+Process	mitochondrial proton-transporting ATP synthase complex assembly	2
+Process	rRNA pseudouridine synthesis	2
+Process	regulation of DNA replication initiation	2
+Process	negative regulation of microtubule depolymerization	2
+Process	peptide biosynthetic process	2
+Process	antibiotic biosynthetic process	2
+Process	regulation of amyloid precursor protein biosynthetic process	2
+Process	exocytosis	2
+Process	tetracycline transport	2
+Process	tRNA-type intron splice site recognition and cleavage	2
+Process	G2/M transition DNA damage checkpoint	2
+Process	response to X-ray	2
+Process	response to ionizing radiation	2
+Process	asparaginyl-tRNA aminoacylation	2
+Process	coenzyme A biosynthetic process	2
+Process	alanyl-tRNA aminoacylation	2
+Process	tRNA aminoacylation	2
+Process	queuosine biosynthetic process	2
+Process	myeloid cell differentiation	2
+Process	positive regulation of metabolic process	2
+Process	positive regulation of eye pigmentation	2
+Process	attachment of GPI anchor to protein	2
+Process	histidine catabolic process	2
+Process	carbohydrate biosynthetic process	2
+Process	circadian rhythm	1
+Process	response to prostaglandin E stimulus	1
+Process	skeletal muscle fiber adaptation	1
+Process	skeletal muscle fiber development	1
+Process	actomyosin structure organization	1
+Process	focal adhesion assembly	1
+Process	alcohol catabolic process	1
+Process	quinone cofactor metabolic process	1
+Process	formaldehyde catabolic process	1
+Process	peptidyl-cysteine S-nitrosylation	1
+Process	positive regulation of blood pressure	1
+Process	respiratory system process	1
+Process	response to nitrosative stress	1
+Process	fatty acid omega-oxidation	1
+Process	protein amino acid de-ADP-ribosylation	1
+Process	protein deglycosylation	1
+Process	glycine biosynthetic process, by transamination of glyoxylate	1
+Process	oxalic acid secretion	1
+Process	protein targeting to peroxisome	1
+Process	pyruvate biosynthetic process	1
+Process	carnitine metabolic process	1
+Process	response to carbohydrate stimulus	1
+Process	vacuolar proton-transporting V-type ATPase complex assembly	1
+Process	cellular response to calcium ion	1
+Process	purine base metabolic process	1
+Process	ADP transport	1
+Process	ATP transport	1
+Process	glutamate uptake during transmission of nerve impulse	1
+Process	negative regulation of necrotic cell death	1
+Process	chylomicron assembly	1
+Process	chylomicron remodeling	1
+Process	innate immune response in mucosa	1
+Process	lipoprotein metabolic process	1
+Process	phospholipid efflux	1
+Process	positive regulation of cholesterol esterification	1
+Process	positive regulation of fatty acid biosynthetic process	1
+Process	positive regulation of lipoprotein lipase activity	1
+Process	positive regulation of triglyceride catabolic process	1
+Process	protein-lipid complex assembly	1
+Process	regulation of intestinal cholesterol absorption	1
+Process	cellular homeostasis	1
+Process	cellular response to mechanical stimulus	1
+Process	establishment or maintenance of actin cytoskeleton polarity	1
+Process	positive regulation of saliva secretion	1
+Process	cellular response to water deprivation	1
+Process	response to salt stress	1
+Process	positive regulation of immune system process	1
+Process	carboxylic acid transport	1
+Process	polyol transport	1
+Process	purine transport	1
+Process	cortical actin cytoskeleton organization	1
+Process	negative regulation of receptor-mediated endocytosis	1
+Process	regulation of Rac protein signal transduction	1
+Process	negative regulation of cell adhesion	1
+Process	acetylcholine transport	1
+Process	ER-nuclear signaling pathway	1
+Process	negative regulation of heart contraction	1
+Process	sarcoplasmic reticulum calcium ion transport	1
+Process	negative regulation of cell adhesion involved in substrate-bound cell migration	1
+Process	regulation of intracellular pH	1
+Process	regulation of homocysteine metabolic process	1
+Process	negative regulation of membrane potential	1
+Process	negative regulation of survival gene product expression	1
+Process	positive regulation of type IIa hypersensitivity	1
+Process	positive regulation of bone resorption	1
+Process	positive regulation of cellular pH reduction	1
+Process	positive regulation of osteoclast differentiation	1
+Process	secretion	1
+Process	carnitine shuttle	1
+Process	nuclear fragmentation during apoptosis	1
+Process	response to tumor necrosis factor	1
+Process	glucocorticoid metabolic process	1
+Process	vitamin K metabolic process	1
+Process	paranodal junction assembly	1
+Process	nucleoside diphosphate catabolic process	1
+Process	nucleoside triphosphate catabolic process	1
+Process	entry of virus into host cell	1
+Process	phosphatidylinositol biosynthetic process	1
+Process	phosphoinositide metabolic process	1
+Process	positive regulation of 1-phosphatidylinositol 4-kinase activity	1
+Process	virion attachment, binding of host cell surface receptor	1
+Process	L-cysteine catabolic process	1
+Process	sulfur amino acid biosynthetic process	1
+Process	taurine biosynthetic process	1
+Process	ceramide catabolic process	1
+Process	fatty acid catabolic process	1
+Process	intestinal lipid catabolic process	1
+Process	protein amino acid esterification	1
+Process	centriole replication	1
+Process	regulation of cytokinesis	1
+Process	establishment of cell polarity	1
+Process	neural crest cell migration	1
+Process	neural fold formation	1
+Process	cellular chloride ion homeostasis	1
+Process	stress granule assembly	1
+Process	phosphocreatine biosynthetic process	1
+Process	meiosis I	1
+Process	neurogenesis	1
+Process	cell volume homeostasis	1
+Process	vacuolar protein catabolic process	1
+Process	long-term memory	1
+Process	negative regulation of circadian sleep/wake cycle, REM sleep	1
+Process	parturition	1
+Process	positive regulation of circadian sleep/wake cycle, wakefulness	1
+Process	positive regulation of cortisol secretion	1
+Process	negative regulation of lipid storage	1
+Process	negative regulation of macrophage derived foam cell differentiation	1
+Process	opsonization	1
+Process	microtubule polymerization or depolymerization	1
+Process	adiponectin-mediated signaling pathway	1
+Process	cellular protein complex assembly	1
+Process	mRNA polyadenylation	1
+Process	intramembranous ossification	1
+Process	cytochrome complex assembly	1
+Process	smooth muscle hypertrophy	1
+Process	cellular ketone metabolic process	1
+Process	alkaloid metabolic process	1
+Process	coumarin metabolic process	1
+Process	isoquinoline alkaloid metabolic process	1
+Process	negative regulation of binding	1
+Process	negative regulation of metabolic process	1
+Process	naphthalene metabolic process	1
+Process	epoxygenase P450 pathway	1
+Process	icosanoid metabolic process	1
+Process	linoleic acid metabolic process	1
+Process	vitamin D metabolic process	1
+Process	pyrimidine dimer repair	1
+Process	bile acid metabolic process	1
+Process	dihydrolipoamide metabolic process	1
+Process	gastrulation	1
+Process	lipoate metabolic process	1
+Process	sperm capacitation	1
+Process	establishment of localization	1
+Process	regulation of T cell mediated immunity	1
+Process	regulation of cell-cell adhesion mediated by integrin	1
+Process	extracellular matrix organization	1
+Process	positive regulation of cell-substrate adhesion	1
+Process	protein amino acid autophosphorylation	1
+Process	regulation of translational initiation in response to stress	1
+Process	mitotic recombination	1
+Process	negative regulation of telomere maintenance	1
+Process	nucleotide-excision repair, DNA incision, 3'-to lesion	1
+Process	nucleotide-excision repair, DNA incision, 5'-to lesion	1
+Process	snoRNA metabolic process	1
+Process	regulation of translational termination	1
+Process	STAT protein nuclear translocation	1
+Process	cytosolic calcium ion homeostasis	1
+Process	positive regulation of blood coagulation	1
+Process	positive regulation of protein amino acid phosphorylation	1
+Process	positive regulation of release of sequestered calcium ion into cytosol	1
+Process	regulation of blood coagulation	1
+Process	release of sequestered calcium ion into cytosol	1
+Process	tyrosine phosphorylation of STAT protein	1
+Process	cytokine production	1
+Process	positive regulation of inflammatory response	1
+Process	white fat cell differentiation	1
+Process	positive regulation of fatty acid beta-oxidation	1
+Process	positive regulation of hydrolase activity	1
+Process	response to fatty acid	1
+Process	DNA replication, removal of RNA primer	1
+Process	ERK1 and ERK2 cascade	1
+Process	actin cytoskeleton reorganization	1
+Process	blood vessel remodeling	1
+Process	embryonic pattern specification	1
+Process	epithelial cell proliferation	1
+Process	fibroblast growth factor receptor signaling pathway	1
+Process	induction of positive chemotaxis	1
+Process	lacrimal gland development	1
+Process	limb morphogenesis	1
+Process	lung saccule development	1
+Process	mesonephros development	1
+Process	metanephros development	1
+Process	positive chemotaxis	1
+Process	positive regulation of Wnt receptor signaling pathway	1
+Process	positive regulation of cyclin-dependent protein kinase activity during G1/S	1
+Process	positive regulation of epithelial cell migration	1
+Process	positive regulation of epithelial cell proliferation involved in wound healing	1
+Process	positive regulation of hair follicle cell proliferation	1
+Process	positive regulation of keratinocyte migration	1
+Process	positive regulation of keratinocyte proliferation	1
+Process	positive regulation of lymphocyte proliferation	1
+Process	positive regulation of urothelial cell proliferation	1
+Process	positive regulation of vascular endothelial growth factor receptor signaling pathway	1
+Process	protein localization at cell surface	1
+Process	radial glial cell differentiation	1
+Process	regulation of saliva secretion	1
+Process	salivary gland development	1
+Process	secretion by lung epithelial cell involved in lung growth	1
+Process	smooth muscle cell differentiation	1
+Process	spleen development	1
+Process	tear secretion	1
+Process	urothelial cell proliferation	1
+Process	vascular endothelial growth factor receptor signaling pathway	1
+Process	protein amino acid farnesylation	1
+Process	intracellular sequestering of iron ion	1
+Process	UDP-glucose conversion	1
+Process	galactose metabolic process	1
+Process	negative regulation of GTP cyclohydrolase I activity	1
+Process	negative regulation of biosynthetic process	1
+Process	neurotransmitter metabolic process	1
+Process	nitric oxide biosynthetic process	1
+Process	platelet dense granule organization	1
+Process	glycine decarboxylation via glycine cleavage system	1
+Process	methylglyoxal metabolic process	1
+Process	GDP-mannose metabolic process	1
+Process	glycerol biosynthetic process	1
+Process	fatty acid transport	1
+Process	glycerolipid metabolic process	1
+Process	angiogenesis involved in wound healing	1
+Process	endothelial cell development	1
+Process	interaction with symbiont	1
+Process	myotube differentiation	1
+Process	negative regulation of inflammatory response to antigenic stimulus	1
+Process	protein amino acid oxidation	1
+Process	regulation of gene expression, epigenetic	1
+Process	regulation of mammary gland epithelial cell proliferation	1
+Process	regulation of neuron apoptosis	1
+Process	response to hydroperoxide	1
+Process	response to selenium ion	1
+Process	response to symbiotic bacterium	1
+Process	response to xenobiotic stimulus	1
+Process	vasodilation	1
+Process	protein retention in ER lumen	1
+Process	RNA polymerase II transcriptional preinitiation complex assembly	1
+Process	receptor guanylyl cyclase signaling pathway	1
+Process	regulation of guanylate cyclase activity	1
+Process	nitric oxide transport	1
+Process	regulation of blood vessel size	1
+Process	maintenance of chromatin silencing	1
+Process	negative regulation of MHC class II biosynthetic process	1
+Process	response to cocaine	1
+Process	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	1
+Process	DNA unwinding during replication	1
+Process	base-excision repair, DNA ligation	1
+Process	negative regulation of RNA polymerase II transcriptional preinitiation complex assembly	1
+Process	cellular response to nutrient	1
+Process	endothelial cell proliferation	1
+Process	healing during inflammatory response	1
+Process	heme oxidation	1
+Process	low-density lipoprotein particle clearance	1
+Process	negative regulation of leukocyte migration	1
+Process	negative regulation of mast cell cytokine production	1
+Process	negative regulation of mast cell degranulation	1
+Process	negative regulation of smooth muscle cell proliferation	1
+Process	positive regulation of chemokine biosynthetic process	1
+Process	regulation of transcription factor activity	1
+Process	regulation of transcription from RNA polymerase II promoter in response to oxidative stress	1
+Process	smooth muscle hyperplasia	1
+Process	behavior	1
+Process	hypoxanthine metabolic process	1
+Process	positive regulation of dopamine metabolic process	1
+Process	heme metabolic process	1
+Process	heme transport	1
+Process	hemoglobin metabolic process	1
+Process	positive regulation of humoral immune response mediated by circulating immunoglobulin	1
+Process	positive regulation of interferon-gamma-mediated signaling pathway	1
+Process	positive regulation of response to interferon-gamma	1
+Process	positive regulation of tyrosine phosphorylation of Stat1 protein	1
+Process	regulation of blood volume by renal aldosterone	1
+Process	regulation of interferon-gamma-mediated signaling pathway	1
+Process	regulation of type I interferon-mediated signaling pathway	1
+Process	cerebral cortex neuron differentiation	1
+Process	negative regulation of astrocyte differentiation	1
+Process	negative regulation of neuron differentiation	1
+Process	neuroblast proliferation	1
+Process	NADPH regeneration	1
+Process	female gonad development	1
+Process	chondroitin sulfate proteoglycan biosynthetic process	1
+Process	glial cell differentiation	1
+Process	glycolate metabolic process	1
+Process	mammary gland development	1
+Process	muscle hypertrophy	1
+Process	myotube cell development	1
+Process	negative regulation of smooth muscle cell apoptosis	1
+Process	positive regulation of granule cell precursor proliferation	1
+Process	positive regulation of insulin-like growth factor receptor signaling pathway	1
+Process	positive regulation of smooth muscle cell migration	1
+Process	positive regulation of tyrosine phosphorylation of Stat5 protein	1
+Process	proteoglycan biosynthetic process	1
+Process	regulation of steroid hormone receptor signaling pathway	1
+Process	satellite cell maintenance involved in skeletal muscle regeneration	1
+Process	regulation of steroid biosynthetic process	1
+Process	response to cortisol stimulus	1
+Process	GMP biosynthetic process	1
+Process	lymphocyte proliferation	1
+Process	positive regulation of transforming growth factor beta receptor signaling pathway	1
+Process	MAPKKK cascade	1
+Process	activation of protein kinase B activity	1
+Process	alpha-beta T cell activation	1
+Process	negative regulation of NAD(P)H oxidase activity	1
+Process	negative regulation of acute inflammatory response	1
+Process	negative regulation of fatty acid metabolic process	1
+Process	negative regulation of gluconeogenesis	1
+Process	negative regulation of glycogen catabolic process	1
+Process	negative regulation of protein secretion	1
+Process	negative regulation of respiratory burst involved in acute inflammatory response	1
+Process	negative regulation of vasodilation	1
+Process	positive regulation of cellular protein metabolic process	1
+Process	positive regulation of glucose import	1
+Process	positive regulation of insulin receptor signaling pathway	1
+Process	positive regulation of lipid biosynthetic process	1
+Process	positive regulation of nitric-oxide synthase activity	1
+Process	positive regulation of protein amino acid autophosphorylation	1
+Process	positive regulation of respiratory burst	1
+Process	regulation of cellular amino acid metabolic process	1
+Process	regulation of gene-specific transcription	1
+Process	regulation of protein localization	1
+Process	regulation of transmembrane transporter activity	1
+Process	G2 phase of mitotic cell cycle	1
+Process	regulation of DNA recombination	1
+Process	complement activation, lectin pathway	1
+Process	keratinization	1
+Process	keratinocyte activation	1
+Process	keratinocyte migration	1
+Process	keratinocyte proliferation	1
+Process	hemidesmosome assembly	1
+Process	interphase	1
+Process	regulation of intracellular protein transport	1
+Process	lactate metabolic process	1
+Process	progesterone biosynthetic process	1
+Process	chylomicron remnant clearance	1
+Process	intermediate-density lipoprotein particle remodeling	1
+Process	low-density lipoprotein particle remodeling	1
+Process	phosphatidylcholine catabolic process	1
+Process	triglyceride catabolic process	1
+Process	negative regulation of very-low-density lipoprotein particle clearance	1
+Process	mitotic cell cycle checkpoint	1
+Process	mitotic sister chromatid segregation	1
+Process	Golgi vesicle fusion to target membrane	1
+Process	vesicle docking during exocytosis	1
+Process	regulation of caspase activity	1
+Process	negative regulation of DNA damage response, signal transduction by p53 class mediator	1
+Process	negative regulation of gene expression	1
+Process	positive regulation of peptidyl-serine phosphorylation	1
+Process	positive regulation of phosphorylation	1
+Process	positive regulation of protein kinase A signaling cascade	1
+Process	regulation of macrophage activation	1
+Process	beta-alanine catabolic process	1
+Process	thymine catabolic process	1
+Process	thymine metabolic process	1
+Process	valine catabolic process	1
+Process	multicellular organismal metabolic process	1
+Process	ventricular system development	1
+Process	regulation of neutrophil chemotaxis	1
+Process	glomerular basement membrane development	1
+Process	regulation of oxygen and reactive oxygen species metabolic process	1
+Process	myoblast cell fate determination	1
+Process	positive regulation of skeletal muscle tissue regeneration	1
+Process	regulation of alternative nuclear mRNA splicing, via spliceosome	1
+Process	striated muscle cell differentiation	1
+Process	carbohydrate catabolic process	1
+Process	glycolipid catabolic process	1
+Process	ATP synthesis coupled electron transport	1
+Process	cAMP-mediated signaling	1
+Process	cellular respiration	1
+Process	nerve growth factor processing	1
+Process	positive regulation of axon extension	1
+Process	positive regulation of axonogenesis	1
+Process	neuron cell-cell adhesion	1
+Process	NAD biosynthesis via nicotinamide riboside salvage pathway	1
+Process	inosine catabolic process	1
+Process	interleukin-2 secretion	1
+Process	nicotinamide riboside catabolic process	1
+Process	positive regulation of alpha-beta T cell differentiation	1
+Process	urate biosynthetic process	1
+Process	CRD-mediated mRNA stabilization	1
+Process	polyamine biosynthetic process	1
+Process	polyamine metabolic process	1
+Process	anion homeostasis	1
+Process	arginine biosynthetic process	1
+Process	ornithine metabolic process	1
+Process	activation of adenylate cyclase activity	1
+Process	positive regulation of acetylcholine metabolic process	1
+Process	positive regulation of cAMP-mediated signaling	1
+Process	regulation of neurotransmitter levels	1
+Process	catecholamine biosynthetic process	1
+Process	protein amino acid hydroxylation	1
+Process	tetrahydrobiopterin metabolic process	1
+Process	tyrosine biosynthetic process	1
+Process	carbohydrate phosphorylation	1
+Process	fructose 2,6-bisphosphate metabolic process	1
+Process	positive regulation of glucokinase activity	1
+Process	regulation of pentose-phosphate shunt	1
+Process	pentose biosynthetic process	1
+Process	pentose-phosphate shunt, oxidative branch	1
+Process	positive regulation of ubiquitin-protein ligase activity	1
+Process	regulation of mitosis	1
+Process	regulation of pathway-restricted SMAD protein phosphorylation	1
+Process	activation of phospholipase A2 activity	1
+Process	arachidonic acid secretion	1
+Process	interleukin-8 production	1
+Process	neutrophil chemotaxis	1
+Process	neutrophil mediated immunity	1
+Process	positive regulation of calcium ion transport into cytosol	1
+Process	positive regulation of immune response	1
+Process	negative regulation of blood vessel endothelial cell migration	1
+Process	positive regulation of fibrinolysis	1
+Process	tissue remodeling	1
+Process	regulation of transcription from RNA polymerase I promoter	1
+Process	organophosphate catabolic process	1
+Process	positive regulation of binding	1
+Process	positive regulation of cholesterol efflux	1
+Process	positive regulation of transporter activity	1
+Process	glutamine metabolic process	1
+Process	regulation of glycogen biosynthetic process	1
+Process	regulation of glycogen catabolic process	1
+Process	mesoderm development	1
+Process	regulation of Wnt receptor signaling pathway	1
+Process	regulation of cell adhesion	1
+Process	regulation of cell differentiation	1
+Process	second-messenger-mediated signaling	1
+Process	negative regulation of blood coagulation	1
+Process	response to mineralocorticoid stimulus	1
+Process	negative regulation of programmed cell death	1
+Process	regulation of protein catabolic process	1
+Process	transmembrane receptor protein tyrosine phosphatase signaling pathway	1
+Process	dihydrobiopterin metabolic process	1
+Process	cell projection assembly	1
+Process	regulation of respiratory burst	1
+Process	arginyl-tRNA aminoacylation	1
+Process	embryonic organ morphogenesis	1
+Process	embryonic retina morphogenesis in camera-type eye	1
+Process	embryonic skeletal system development	1
+Process	female genitalia morphogenesis	1
+Process	negative regulation of cardiac muscle cell proliferation	1
+Process	positive regulation of immunoglobulin secretion	1
+Process	positive regulation of insulin secretion	1
+Process	retinol transport	1
+Process	spermatogonial cell division	1
+Process	urinary bladder development	1
+Process	uterus development	1
+Process	vagina development	1
+Process	mannose metabolic process	1
+Process	regulation of rhodopsin gene expression	1
+Process	G1/S transition checkpoint	1
+Process	optic nerve development	1
+Process	retinal ganglion cell axon guidance	1
+Process	ribosomal large subunit assembly	1
+Process	negative regulation of DNA repair	1
+Process	TOR signaling pathway	1
+Process	ribosomal small subunit export from nucleus	1
+Process	anatomical structure development	1
+Process	gas transport	1
+Process	positive regulation of cellular component movement	1
+Process	mRNA splice site selection	1
+Process	branching involved in ureteric bud morphogenesis	1
+Process	embryonic skeletal system morphogenesis	1
+Process	generation of neurons	1
+Process	myoblast migration	1
+Process	protein localization in nucleus	1
+Process	thyroid gland development	1
+Process	ureteric bud development	1
+Process	D-aspartate import	1
+Process	L-glutamate import	1
+Process	auditory behavior	1
+Process	cell morphogenesis involved in neuron differentiation	1
+Process	cranial nerve development	1
+Process	gamma-aminobutyric acid biosynthetic process	1
+Process	glutamate biosynthetic process	1
+Process	malate-aspartate shuttle	1
+Process	neuromuscular process controlling balance	1
+Process	neurotransmitter uptake	1
+Process	positive regulation of synaptic transmission	1
+Process	mitochondrial citrate transport	1
+Process	protein sumoylation	1
+Process	regulation of RNA splicing	1
+Process	auditory receptor cell stereocilium organization	1
+Process	myelin maintenance in the peripheral nervous system	1
+Process	myeloid cell homeostasis	1
+Process	negative regulation of cholesterol biosynthetic process	1
+Process	neurofilament cytoskeleton organization	1
+Process	positive regulation of cytokine production	1
+Process	regulation of T cell differentiation in the thymus	1
+Process	regulation of organ growth	1
+Process	regulation of protein kinase activity	1
+Process	relaxation of vascular smooth muscle	1
+Process	transmission of nerve impulse	1
+Process	interferon-gamma-mediated signaling pathway	1
+Process	negative regulation of DNA binding	1
+Process	negative regulation of cellular component movement	1
+Process	type I interferon-mediated signaling pathway	1
+Process	bile acid biosynthetic process	1
+Process	bile acid catabolic process	1
+Process	negative regulation of translational elongation	1
+Process	hyperosmotic response	1
+Process	estrogen metabolic process	1
+Process	histone deubiquitination	1
+Process	post-chaperonin tubulin folding pathway	1
+Process	tryptophan catabolic process to acetyl-CoA	1
+Process	tryptophan catabolic process to kynurenine	1
+Process	macrophage activation	1
+Process	positive regulation of tumor necrosis factor biosynthetic process	1
+Process	diaphragm contraction	1
+Process	regulation of muscle filament sliding speed	1
+Process	regulation of smooth muscle contraction	1
+Process	regulation of systemic arterial blood pressure by ischemic conditions	1
+Process	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	1
+Process	cyanate catabolic process	1
+Process	sulfate transport	1
+Process	nucleotide-sugar metabolic process	1
+Process	vitamin E metabolic process	1
+Process	hindlimb morphogenesis	1
+Process	negative regulation of striated muscle tissue development	1
+Process	long-term strengthening of neuromuscular junction	1
+Process	Wnt receptor signaling pathway through beta-catenin	1
+Process	histone H2A ubiquitination	1
+Process	sperm axoneme assembly	1
+Process	DNA double-strand break processing	1
+Process	adult walking behavior	1
+Process	axon target recognition	1
+Process	axon transport of mitochondrion	1
+Process	drinking behavior	1
+Process	negative regulation of blood pressure	1
+Process	positive regulation of interleukin-6 production	1
+Process	regulation of synaptic transmission, glutamatergic	1
+Process	response to alkaloid	1
+Process	uroporphyrinogen III metabolic process	1
+Process	behavioral fear response	1
+Process	nerve-nerve synaptic transmission	1
+Process	intermediate filament-based process	1
+Process	DNA-dependent DNA replication	1
+Process	S phase of mitotic cell cycle	1
+Process	N-terminal protein amino acid acetylation	1
+Process	cardiac muscle fiber development	1
+Process	detection of mechanical stimulus	1
+Process	otic vesicle formation	1
+Process	skeletal muscle thick filament assembly	1
+Process	tyrosyl-tRNA aminoacylation	1
+Process	positive regulation of macroautophagy	1
+Process	GTP catabolic process	1
+Process	plasma membrane to endosome transport	1
+Process	regulation of long-term neuronal synaptic plasticity	1
+Process	regulation of protein transport	1
+Process	apical protein localization	1
+Process	peroxisome membrane biogenesis	1
+Process	dolichol metabolic process	1
+Process	growth hormone receptor signaling pathway	1
+Process	G1 phase of mitotic cell cycle	1
+Process	elevation of cytosolic calcium ion concentration during G-protein signaling, coupled to IP3 second messenger (phospholipase C activating)	1
+Process	Mo-molybdopterin cofactor biosynthetic process	1
+Process	iron incorporation into metallo-sulfur cluster	1
+Process	sulfur amino acid metabolic process	1
+Process	sex differentiation	1
+Process	pyruvate transport	1
+Process	ribosomal protein import into nucleus	1
+Process	steroid hormone receptor signaling pathway	1
+Process	galactosylceramide biosynthetic process	1
+Process	dTTP biosynthetic process	1
+Process	endosome organization	1
+Process	endosome to lysosome transport via multivesicular body sorting pathway	1
+Process	response to lipid	1
+Process	phospholipid catabolic process	1
+Process	negative regulation of translation	1
+Process	maintenance of protein location in nucleus	1
+Process	intracellular copper ion transport	1
+Process	metal ion transport	1
+Process	fatty acid beta-oxidation using acyl-CoA oxidase	1
+Process	glucosamine catabolic process	1
+Process	adipose tissue development	1
+Process	nicotinamide metabolic process	1
+Process	positive regulation of nitric-oxide synthase biosynthetic process	1
+Process	cell development	1
+Process	regulation of heart rate	1
+Process	cellular response to misfolded protein	1
+Process	misfolded or incompletely synthesized protein catabolic process	1
+Process	positive regulation of cellular chaperone-mediated protein complex assembly	1
+Process	regulation of glucocorticoid metabolic process	1
+Process	ubiquitin-dependent SMAD protein catabolic process	1
+Process	vacuolar transport	1
+Process	T-helper 1 type immune response	1
+Process	activation of NF-kappaB-inducing kinase activity	1
+Process	microglial cell activation during immune response	1
+Process	pathogen-associated molecular pattern dependent induction by symbiont of host innate immunity	1
+Process	positive regulation of JUN kinase activity	1
+Process	response to bacterial lipoprotein	1
+Process	toll-like receptor signaling pathway	1
+Process	G2/M transition of mitotic cell cycle	1
+Process	mitotic anaphase	1
+Process	regulation of mitotic metaphase/anaphase transition	1
+Process	CDP-diacylglycerol metabolic process	1
+Process	antigen processing and presentation of exogenous peptide antigen via MHC class II	1
+Process	I-kappaB phosphorylation	1
+Process	L-glutamate transport	1
+Process	negative regulation of transport	1
+Process	mucus secretion	1
+Process	CMP-sialic acid transport	1
+Process	nucleotide-sugar transport	1
+Process	cholesterol transport	1
+Process	glycolipid transport	1
+Process	intracellular sterol transport	1
+Process	regulation of isoprenoid metabolic process	1
+Process	positive regulation of innate immune response	1
+Process	positive regulation of interferon-beta production	1
+Process	regulation of transcription from RNA polymerase III promoter	1
+Process	platelet-derived growth factor receptor signaling pathway	1
+Process	phenylalanyl-tRNA aminoacylation	1
+Process	positive regulation of cytolysis	1
+Process	virus-host interaction	1
+Process	chaperone-mediated protein complex assembly	1
+Process	nuclear migration	1
+Process	10-formyltetrahydrofolate catabolic process	1
+Process	protein import into nucleus, translocation	1
+Process	retrograde protein transport, ER to cytosol	1
+Process	protein deneddylation	1
+Process	positive regulation of autophagy	1
+Process	cytoplasmic microtubule organization	1
+Process	interphase of mitotic cell cycle	1
+Process	D-ribose catabolic process	1
+Process	ribonucleoside diphosphate catabolic process	1
+Process	diadenosine polyphosphate catabolic process	1
+Process	trehalose catabolic process	1
+Process	trehalose metabolic process	1
+Process	calcium-dependent cell-cell adhesion	1
+Process	synaptic vesicle targeting	1
+Process	mitotic metaphase plate congression	1
+Process	negative regulation of insulin secretion	1
+Process	NAD biosynthetic process	1
+Process	quinolinate catabolic process	1
+Process	peptide metabolic process	1
+Process	rhythmic process	1
+Process	prolyl-tRNA aminoacylation	1
+Process	fatty acid alpha-oxidation	1
+Process	DNA damage checkpoint	1
+Process	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process	1
+Process	glycoprotein catabolic process	1
+Process	negative regulation of myoblast differentiation	1
+Process	methionine metabolic process	1
+Process	histone mRNA 3'-end processing	1
+Process	cellular biogenic amine metabolic process	1
+Process	phenol metabolic process	1
+Process	rRNA modification	1
+Process	activation of anaphase-promoting complex activity	1
+Process	glycosphingolipid biosynthetic process	1
+Process	epidermis morphogenesis	1
+Process	negative regulation of G-protein coupled receptor protein signaling pathway	1
+Process	seminal clot liquefaction	1
+Process	detection of gravity	1
+Process	otolith development	1
+Process	negative regulation of CREB transcription factor activity	1
+Process	negative regulation of T cell cytokine production	1
+Process	negative regulation of T cell proliferation	1
+Process	negative regulation of cytokine biosynthetic process	1
+Process	negative regulation of histone deacetylation	1
+Process	negative regulation of interferon-gamma production	1
+Process	negative regulation of interleukin-10 production	1
+Process	negative regulation of interleukin-2 biosynthetic process	1
+Process	negative regulation of interleukin-2 production	1
+Process	negative regulation of interleukin-4 production	1
+Process	positive regulation of histone acetylation	1
+Process	DNA damage response, signal transduction by p53 class mediator resulting in induction of apoptosis	1
+Process	G1/S DNA damage checkpoint	1
+Process	dorsal/ventral pattern formation	1
+Process	embryonic digit morphogenesis	1
+Process	neural tube formation	1
+Process	smoothened signaling pathway	1
+Process	bone marrow development	1
+Process	inner cell mass cell proliferation	1
+Process	leukocyte chemotaxis	1
+Process	mitotic spindle stabilization	1
+Process	D-xylose metabolic process	1
+Process	xylulose metabolic process	1
+Process	phosphatidylserine metabolic process	1
+Process	ribosome assembly	1
+Process	dendrite development	1
+Process	DNA damage response, signal transduction by p53 class mediator	1
+Process	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	1
+Process	protein ufmylation	1
+Process	regulation of receptor recycling	1
+Process	pyrimidine ribonucleotide biosynthetic process	1
+Process	sensory perception of taste	1
+Process	chromosome organization	1
+Process	regulation of inhibitory postsynaptic membrane potential	1
+Process	social behavior	1
+Process	synapse organization	1
+Process	visual learning	1
+Process	translational termination	1
+Process	mitochondrial electron transport, succinate to ubiquinone	1
+Process	protein-FAD linkage	1
+Process	cellular macromolecule catabolic process	1
+Process	ganglioside metabolic process	1
+Process	glycosaminoglycan metabolic process	1
+Process	locomotion involved in locomotory behavior	1
+Process	positive regulation of gene expression	1
+Process	positive regulation of megakaryocyte differentiation	1
+Process	regulation of cell adhesion mediated by integrin	1
+Process	antigen processing and presentation of endogenous peptide antigen via MHC class I	1
+Process	pyridoxine biosynthetic process	1
+Process	inositol catabolic process	1
+Process	positive regulation of abscisic acid mediated signaling pathway	1
+Process	chondroitin sulfate biosynthetic process	1
+Process	polysaccharide metabolic process	1
+Process	detection of temperature stimulus involved in sensory perception of pain	1
+Process	photoreceptor cell morphogenesis	1
+Process	cell-cell adhesion	1
+Process	cell-cell junction maintenance	1
+Process	regulation of MAP kinase activity	1
+Process	Rac protein signal transduction	1
+Process	pyrimidine nucleoside transport	1
+Process	fructoselysine metabolic process	1
+Process	neurotransmitter secretion	1
+Process	positive regulation of TOR signaling pathway	1
+Process	regulation of actin cytoskeleton organization	1
+Process	histone H3-K14 acetylation	1
+Process	proline biosynthetic process	1
+Process	mitochondrion localization	1
+Process	production of miRNAs involved in gene silencing by miRNA	1
+Process	putrescine biosynthetic process	1
+Process	spermidine biosynthetic process	1
+Process	lipid glycosylation	1
+Process	diacylglycerol biosynthetic process	1
+Process	triglyceride biosynthetic process	1
+Process	cell projection organization	1
+Process	regulation of S phase of mitotic cell cycle	1
+Process	visual behavior	1
+Process	rRNA metabolic process	1
+Process	histone H3-K4 methylation	1
+Process	L-methylmalonyl-CoA metabolic process	1
+Process	positive regulation of calcium ion transport	1
+Process	oogenesis	1
+Process	tRNA thio-modification	1
+Process	tRNA wobble uridine modification	1
+Process	rRNA 3'-end processing	1
+Process	double-strand break repair via nonhomologous end joining	1
+Process	regulation of ossification	1
+Process	proton-transporting ATP synthase complex assembly	1
+Process	mitochondrial membrane organization	1
+Process	positive regulation of lyase activity	1
+Process	positive regulation of transferase activity	1
+Process	lipopolysaccharide biosynthetic process	1
+Process	defense response to Gram-positive bacterium	1
+Process	detection of bacterium	1
+Process	peptide amidation	1
+Process	peptidoglycan catabolic process	1
+Process	histone lysine methylation	1
+Process	sleep	1
+Process	negative regulation of osteoblast differentiation	1
+Process	cilium morphogenesis	1
+Process	lipid particle organization	1
+Process	regulation of triglyceride biosynthetic process	1
+Process	regulation of JAK-STAT cascade	1
+Process	flagellum assembly	1
+Process	melanosome transport	1
+Process	quinolinate metabolic process	1
+Process	protein import into mitochondrial matrix	1
+Process	synaptic target recognition	1
+Process	positive regulation of oxygen and reactive oxygen species metabolic process	1
+Process	replicative cell aging	1
+Process	histidine catabolic process to glutamate and formamide	1
+Process	DNA replication, synthesis of RNA primer	1
+Process	phagocytosis	1
+Process	protein insertion into mitochondrial membrane	1
+Process	negative regulation of DNA replication	1
+Process	sphingomyelin metabolic process	1
+Process	neurotransmitter transport	1
+Process	sensory perception of bitter taste	1
+Process	sensory perception of sweet taste	1
+Process	positive regulation of transcription from RNA polymerase I promoter	1
+Process	lipoate biosynthetic process	1
+Process	inner ear receptor cell development	1
+Process	inner ear receptor stereocilium organization	1
+Process	vestibular receptor cell development	1
+Process	negative regulation of megakaryocyte differentiation	1
+Process	heterophilic cell-cell adhesion	1
+Process	positive regulation of keratinocyte differentiation	1
+Process	regulation of epidermis development	1
