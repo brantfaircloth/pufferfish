@@ -37,7 +37,12 @@ type='string', default = None, help='The path to the configuration file.', \
 metavar='FILE')
     p.add_option('--distance', '-d', dest = 'dist', action='store', \
 type='int', default = 0, help='The distance within which we want to search')
-
+    p.add_option('--tablename', '-t', dest = 'table', action='store', \
+type='string', default = None, help='The name of the output table')   
+    p.add_option('--reftablename', '-r', dest = 'ref', action='store', \
+type='string', default = None, help='The name of the table to reference')
+    p.add_option('--minoverlaps', '-m', dest = 'min', action='store', \
+type='int', default = 3, help='The minimum number of overlaps we require')
     (options,arg) = p.parse_args()
     if not options.conf:
         p.print_help()
@@ -49,38 +54,58 @@ type='int', default = 0, help='The distance within which we want to search')
     return options, arg
     
 
-def checkClusters(cur, used, each, dist, index, min_overlaps = 3):
+
+def clusterer(used, known, cur, table, chromo, mn, mx, dist):
+    #pdb.set_trace()
+    # find all overlapping
+    query = '''SELECT id, mrna_id, exon, chromo, start, end from %s where 
+        chromo = '%s' AND ((%s > start) AND (%s < end))''' % \
+        (table, chromo, mx+dist, mn-dist)
+    cur.execute(query)
+    results = cur.fetchall()
+    if results:
+        overlapping = set(results)
+        # are there any new overlapping
+        new = overlapping.difference(known)
+        if new:
+            # do any remain after checking for used
+            new = new.difference(used)
+            known.update(new)
+            if new:
+                # make them used
+                used.update(new)
+                # get the min start of the cluster
+                tmn = min([n[4] for n in new])
+                if tmn < mn:
+                    mn = tmn
+                # get the max start of the cluster
+                tmx = max([n[5] for n in new])
+                if tmx > mx:
+                    mx = tmx
+                used, known, mn, mx = clusterer(used, known, cur, table, chromo, mn, mx, dist)
+    return used, known, mn, mx 
+
+def checkClusters(cur, ref, table, used, each, dist, index, min_overlaps, chromosome):
     ''' Stuff '''
-    id, splice_id, exon, start, end = each
-    # this should give all regions with any sort of overlap - not including
-    # abutting fragments, but that's okay
-    cur.execute('''SELECT id, splice_id, exon, start, end from starts where 
-        splice_id != ? and ((? > start) AND (? < end))''', \
-        (splice_id, end+dist, start-dist))
-    rows = cur.fetchall()
-    if rows and len(rows) >= min_overlaps:
-        temp = set()
-        # add main record to the cluster
-        rows.append(each)
-        #pdb.set_trace()
-        temp.update(rows)
-        # check to see if there are any common elements between sets
-        if len(used & temp) == 0:
-            #pdb.set_trace()
-            print ('%s,%s') % (splice_id, exon), rows
-            # get the min start of the cluster
-            mn = min([r[3] for r in rows])
-            # get the max start of the cluster
-            mx = max([r[4] for r in rows])
-            # record the ids of fragments used so as not to dupe
-            used.update(rows)
-            # update the region table with pertinent starts and ends
-            cur.execute('''INSERT INTO region values (?, ?, ?)''', (index, mn, mx))
-            # update the region components table
-            for elem in rows:
-                cur.execute('''INSERT INTO region_components values (?, ?)''', (index, elem[0]))
-            #pdb.set_trace()
-    return used
+    id, splice_id, exon, chromo, start, end = each
+    if not chromosome:
+        chromosome = chromo
+    elif chromosome != chromo:
+        # reset used
+        used = set()
+        chromosome = chromo
+        print "Chromosome = ", chromosome
+    known = set()
+    # add each to the set
+    known.add(each)
+    # add record to used
+    used.add(each)
+    used, known, mn, mx = clusterer(used, known, cur, table, chromo, start, end, dist)
+    cur.execute('''INSERT INTO region values (?, ?, ?, ?, ?, ?)''', (index, splice_id, exon, chromo, mn, mx))
+    # update the region components table
+    for elem in known:
+        cur.execute('''INSERT INTO region_components values (?, ?)''', (index, elem[0]))
+    return used, chromosome
 
 def createRegionTable(cur):
     '''create the region table which will hold the information on DNA 
@@ -94,9 +119,14 @@ def createRegionTable(cur):
     cur.execute('''
         CREATE TABLE `region` (
         `id` int(10) unsigned NOT NULL,
+        `mrna_id` int(10) unsigned NOT NULL,
+        `starts_exon` int(10) unsigned NOT NULL,
+        `chromo` varchar(15) NOT NULL default '',
         `start` int(10) unsigned NOT NULL default '0',
         `end` int(10) unsigned NOT NULL default '0',
-        PRIMARY KEY  (`id`)
+        PRIMARY KEY  (`id`),
+        KEY `mrna_id` (`mrna_id`),
+        KEY `starts_exon` (`starts_exon`)
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8 
         ''')
 
@@ -129,8 +159,8 @@ def main():
             db=conf.get('Database','DATABASE')
             )
     cur = conn.cursor()
-    #cur.execute('''SELECT splice_id, id, start, end from starts''')
-    cur.execute('''SELECT id, splice_id, exon, start, end from starts''')
+    query = '''SELECT id, %s_id, exon, chromo, start, end from %s''' % (options.ref, options.table)
+    cur.execute(query)
     rows = cur.fetchall()
     # we're going to use a set to hold our introns that are already used.
     # this saves us from having to create a table to hold these data and
@@ -141,11 +171,18 @@ def main():
     createRegionTable(cur)
     # create region_components table
     createRegionComponentsTable(cur)
+    chromo = None
     for each in rows:
-        used = checkClusters(cur, used, each, options.dist, i)
+        #pdb.set_trace()
+        if each in used:
+            pass
+        else:
+            used, chromo = checkClusters(cur, options.ref, options.table, used, each, options.dist, i, options.min, chromo)
         i += 1
         #if i == 20:
         #    pdb.set_trace()
+        if i%1000 == 0:
+            print ('Rowcount = %s, Position = %s' % (len(rows), i))
     conn.commit()
     cur.close()
     conn.close()
