@@ -102,7 +102,7 @@ Edit:       23 Mar 2010
 
 ### get the intersection between putative genes and the transalign refseq
 
-    (do this via UCSC)
+    (do this via UCSC; overlap >= 80%)
 
 ### run the geneMinMax.py script to get ranges of putative gene regions
 
@@ -116,3 +116,61 @@ Edit:       23 Mar 2010
 ### get the annotation data from NCBI
 
     python ncbiQuery.py --configuration=data/tetNig2/db.conf
+
+### run a per-species query to get go-term counts on a per-species basis
+
+#### Humans (Function)
+
+    select category, description, count(refseq.id) from go, refseq, gorefs 
+    where category = 'Function' and refseq.source = 'Homo sapiens' and 
+    gorefs.refseq_id = refseq.id and go.id = gorefs.go_id group by 
+    go.description order by count(refseq.id) desc into outfile 
+    '~/Database/tetNig2/tetNigHomoSapGo.Function.Terms.txt' fields terminated by '\t' ;
+    
+#### Humans (Process)
+
+    select category, description, count(refseq.id) from go, refseq, gorefs 
+    where category = 'Process' and refseq.source = 'Homo sapiens' and 
+    gorefs.refseq_id = refseq.id and go.id = gorefs.go_id group by 
+    go.description order by count(refseq.id) desc into outfile 
+    '~/Database/tetNig2/tetNigHomoSapGo.Process.Terms.txt' fields terminated by '\t' ;
+
+#### Mus musculus (Function)
+
+    select category, description, count(refseq.id) from go, refseq, gorefs 
+    where category = 'Function' and refseq.source = 'Mus musculus' and 
+    gorefs.refseq_id = refseq.id and go.id = gorefs.go_id group by 
+    go.description order by count(refseq.id) desc into outfile 
+    '~/Database/tetNig2/tetNigMusMus.Function.Terms.txt' fields terminated by '\t' ;
+    
+#### Mus musculus (Process)
+
+    select category, description, count(refseq.id) from go, refseq, gorefs 
+    where category = 'Process' and refseq.source = 'Mus musculus' and 
+    gorefs.refseq_id = refseq.id and go.id = gorefs.go_id group by 
+    go.description order by count(refseq.id) desc into outfile 
+    '~/Database/tetNig2/tetNigMusMus.Process.Terms.txt' fields terminated by '\t' ;
+
+#### Danio rerio (Function)
+
+    select category, description, count(refseq.id) from go, refseq, gorefs 
+    where category = 'Function' and refseq.source = 'Danio rerio' and 
+    gorefs.refseq_id = refseq.id and go.id = gorefs.go_id group by 
+    go.description order by count(refseq.id) desc into outfile 
+    '~/Database/tetNig2/tetNigDanRerGo.Function.Terms.txt' fields terminated by '\t' ;
+    
+#### Danio rerio (Process)
+
+    select category, description, count(refseq.id) from go, refseq, gorefs 
+    where category = 'Process' and refseq.source = 'Danio rerio' and 
+    gorefs.refseq_id = refseq.id and go.id = gorefs.go_id group by 
+    go.description order by count(refseq.id) desc into outfile 
+    '~/Database/tetNig2/tetNigDanRerGo.Process.Terms.txt' fields terminated by '\t' ;
+
+#### Oryzias latipes (Function)
+
+    (No hits)
+    
+#### Oryzias latipes (Process)
+
+    (No hits)
