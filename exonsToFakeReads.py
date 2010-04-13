@@ -11,6 +11,12 @@ the genes of the organism.  But, we need to smash these exons together into
 mRNA-like reads, so we can map them over to Danio, in order to get some idea
 of the genes with which we will be working.  This program does that.
 
+Usage:
+
+    python exonsToFakeReads.py --twobit=data/tetNig2/tetNig2.2bit 
+    --configuration=data/tetNig2/db.conf
+    --exons=exons --genes=genes --output=data/tetNig2/myExons.fa
+
 """
 
 import pdb
@@ -50,6 +56,9 @@ def interface():
     p.add_option('--output', dest = 'output', action='store', \
         type='string', default = None, \
         help='The path to the output file.', metavar='FILE')
+    
+    p.add_option('--stitch', dest = 'stitch', action='store_true', \
+        default=False, help='Stitch exons into gene regions')
         
     (options,arg) = p.parse_args()
     
@@ -83,7 +92,22 @@ def exonStitcher(cur, gene, mrna_id, exons, tb):
     record.id = 'Tetraodon_Gene_%s' % (gene)
     record.name = record.id
     record.description = 'Tetraodon putative gene %s, mrna_id = %s, exons %s' % (gene, mrna_id, exonIds)
-    return record
+    return [record]
+
+
+def exonOnly(cur, gene, mrna_id, exons, tb):
+    #pdb.set_trace()
+    records = []
+    for count, exon in enumerate(exons):
+        sequence = None
+        se, chromo, start, end = exon
+        sequence = Seq(tb[chromo][start:end], IUPAC.unambiguous_dna)
+        record = SeqRecord(sequence)
+        record.id = 'Tetraodon_Gene_%s_Exon_%s_mRNA_%s' % (gene, exon[0], mrna_id)
+        record.name = record.id
+        record.description = 'Tetraodon putative gene %s, exon %s, mrna_id = %s' % (gene, exon[0], mrna_id)
+        records.append(record)
+    return records
 
 def main():
     conf = ConfigParser.ConfigParser()
@@ -103,8 +127,11 @@ def main():
     holder = []
     for gene, mrna_id in genes:
         exons   = getExons(cur, mrna_id, options)
-        rna     = exonStitcher(cur, gene, mrna_id, exons, tb)
-        holder.append(rna)
+        if options.stitch:
+            rna = exonStitcher(cur, gene, mrna_id, exons, tb)
+        else:
+            rna = exonOnly(cur, gene, mrna_id, exons, tb)
+        holder += rna
     SeqIO.write(holder, open(options.output, 'w'), 'fasta')
 
 
