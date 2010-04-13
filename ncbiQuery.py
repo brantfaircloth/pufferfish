@@ -5,6 +5,14 @@ ncbiQuery.py
 
 Created by Brant Faircloth on 2010-03-22.
 Copyright (c) 2010 Brant Faircloth. All rights reserved.
+
+This program goes out to NCBI and gets the GO data (and some other data) for 
+genes in our organism of choice.  It uses the accession numbers 
+(annotation.accession) of reads to determine the geneId of a region 
+(from ncbi nucleotide), then goes to ncbi gene to get all the other annotation 
+goodies.  This program is a pain because ncbi allows you only to run it btw. 
+9:00 PM and 5:00 AM EST/EDT and they shut down their servers occasionally 
+at that time, which kills the script.
 """
 
 import pdb
