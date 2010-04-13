@@ -174,3 +174,113 @@ Edit:       23 Mar 2010
 #### Oryzias latipes (Process)
 
     (No hits)
+    
+#  05 April 2010
+
+### get tetNig2 from UCSC
+    
+    wget http://hgdownload.cse.ucsc.edu/goldenPath/tetNig2/bigZips/chromFa.tar.gz
+    tar -xzvf chromFa.tar.gz
+    faToTwobit sequence/*.fa tetNig2.2bit
+
+### get the fasta sequence associated with each, specific exon in Tetraodon
+
+    python exonsToFakeReads.py --twobit=data/tetNig2/tetNig2.2bit \ 
+    --configuration=data/tetNig2/db.conf --exons=exons --genes=genes \
+    --output=data/tetNig2/myExons.fa
+
+### get fugu (fr2) sequence so we can lastz our data against fugu
+
+    wget http://hgdownload.cse.ucsc.edu/goldenPath/fr2/bigZips/chromFa.tar.gz
+    faTwoTwobit sequence/* fr2.2bit
+
+### lastz our exons in Tetraodon to all sequence in Fugu (33 min execution) [first ran this as coverage=80 identity=90].  Placed everything in 80_80 or 80_90 directories.
+
+    python ../../../../seqcap/Alignment/easyLastz.py \
+    --target=../../fr2/fr2.2bit \
+    --query=myExons.2bit --coverage=80 --identity=90 \
+    --output=myExonsMatchToFugu.80_80.lastz
+
+### move fasta, 2bit, lastz file into lastz directory
+
+    mv myExons.2bit lastz/
+    mv myExons.fa lastz/
+    mv *.lastz lastz/
+    
+### duplicate lastz file & clean % signs
+    
+    cp *.lastz myExonsMatchToFugu.lastz.initial
+    sed 's/%//g' myExonsMatchToFugu.lastz > myExonsMatchToFugu.lastz.clean
+
+### create a table for the lastz data
+    
+    fuguMatch | CREATE TABLE `fugumatch` (
+    `exons_id` int(10) unsigned NOT NULL,
+    `mrna_id` int(10) unsigned NOT NULL,
+    `score` int(10) unsigned NOT NULL,
+    `name1` varchar(20) NOT NULL,
+    `strand1` varchar(1) NOT NULL,
+    `zstart1` int(10) unsigned NOT NULL,
+    `end1` int(10) unsigned NOT NULL,
+    `length1` smallint(5) unsigned NOT NULL,
+    `name2` varchar(100) NOT NULL,
+    `strand2` varchar(1) NOT NULL,
+    `zstart2` smallint(5) unsigned NOT NULL,
+    `end2` smallint(5) unsigned NOT NULL,
+    `length2` smallint(5) unsigned NOT NULL,
+    `diff` text NOT NULL,
+    `cigar` text NOT NULL,
+    `identity` varchar(12) DEFAULT NULL,
+    `percent_identity` float DEFAULT NULL,
+    `continuity` varchar(12) DEFAULT NULL,
+    `percent_continuity` float DEFAULT NULL,
+    `coverage` varchar(12) DEFAULT NULL,
+    `percent_coverage` float DEFAULT NULL,
+    KEY `exons_id` (`exons_id`),
+    KEY `mrna_id` (`mrna_id`),
+    KEY `percent_identity` (`percent_identity`),
+    KEY `percent_coverage` (`percent_coverage`),
+    CONSTRAINT `fugumatch_ibfk_1` FOREIGN KEY (`exons_id`) REFERENCES `exons` (`id`),
+    CONSTRAINT `fugumatch_ibfk_2` FOREIGN KEY (`mrna_id`) REFERENCES `mrna` (`id`)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+### inserted data to table with
+
+    python ../../../../lastzInserter.py --configuration=../../db.conf \ 
+    --input=myExonsMatchToFugu.80_80.lastz.clean
+
+### backup initial table and then find duplicates
+
+    create temporary table dup as select exons_id as id, count(*) as n from 
+    fugumatch group by id having n > 1;
+
+### mark the data in the original table as duplicated (or not)
+
+    alter table fugumatch add column duplicate bool not null;
+    update fugumatch, dup set duplicate = 1 where fugumatch.exons_id = dup.id;
+
+### create the tablet to hold those genes in tetraodon that are also in fugu
+
+    CREATE TABLE `fugugenes` (
+    `genes_id` int(10) unsigned NOT NULL,
+    `mrna_id` int(10) unsigned NOT NULL,
+    `chromo` varchar(15) DEFAULT NULL,
+    `start` int(10) unsigned NOT NULL,
+    `end` int(10) unsigned NOT NULL,
+    `span_diff` int(10) unsigned NOT NULL,
+    `avg_coverage` float unsigned NOT NULL,
+    `avg_identity` float unsigned NOT NULL,
+    Index (genes_id),
+    Index (mrna_id),
+    Index (span_diff),
+    Index (avg_coverage),
+    Index (avg_identity),
+    FOREIGN KEY (`genes_id`) REFERENCES `mrna` (`id`),
+    FOREIGN KEY (`mrna_id`) REFERENCES `mrna` (`id`)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+### determine which entire genes (denoted by the match of exons in tetraodon with those in fugu) are present in fugu.  This avoids duplicate regions identified by lastz, and it returns the difference in the "span" of a gene, as well as metrics of it's coverage and conservation (measured as % identity).
+
+    python fuguGeneRegionChecker.py --configuration=data/tetNig2/db.conf 
+
+    
